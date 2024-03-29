@@ -160,6 +160,8 @@ Por ejemplo, imagine que tiene un sistema de archivos, donde los archivos y los 
 - 🔗 [Patrones de Diseño de Software](https://www.youtube.com/playlist?list=PLM-p96nOrGcbqbL_A29b0z3KUXdq2_fpn)
 - 🔗 [O que é Design Patterns (Padrões de Design)?](https://programadoresdepre.com.br/o-que-e-design-patterns-padroes-de-design/)
 - 🔗 [DesignPatternsConsideredHarmful](https://wiki.c2.com/?DesignPatternsConsideredHarmful)
+- 🔗 [De Cero a Experto en Arquitectura de Software, con Ángeles Vázquez | Ep 9](https://www.youtube.com/watch?v=u0kPSJa14Q8)
+
 ***
 ### <span style="color:grey">Link al Video de Youtube_34:</span>
 - 🔗 [034 - OOP IEC 61131-3 PLC -- Patrones de Diseño - Introducción](https://youtu.be/vjWoPhHb6K0)

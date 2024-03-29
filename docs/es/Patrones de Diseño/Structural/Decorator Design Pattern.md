@@ -15,6 +15,8 @@
 - 🔗 [stefanhenneken.net/IEC 61131-3: The Decorator Pattern](https://stefanhenneken.net/2019/02/16/iec-61131-3-the-decorator-pattern/)
 
 - 🔗 [🤩PATRONES de DISEÑO con Typescript - Decorator Pattern | PT 2.](https://www.youtube.com/watch?v=6FfqopVI9bo)
+
+- 🔗 [github.com/mcclureTC/TcObserverPattern](https://github.com/mcclureTC/TcObserverPattern)
 ***
 ### <span style="color:grey">Link al Video de Youtube_53:</span>
 - 🔗 [053 - OOP IEC 61131-3 PLC -- Patrones de Diseño - Estructural - Decorador]()

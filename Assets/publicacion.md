@@ -73,8 +73,6 @@ Lista de Videos del Curso OOP Programación Orientada a Objetos IEC61131-3 PLC:
 
 Se busca colaborador para la traducción de la documentación al idioma que desee... 👀
 
-- [libro disponible en ingles: Use of the SOLID principles with the IEC 61131-3](https://www.bod.de/buchshop/use-of-the-solid-principles-with-the-iec-61131-3-stefan-henneken-9783757892227)
-
 - 👉 [Ayudame siendo Patrocinador](https://github.com/sponsors/runtimevic)
 
 
