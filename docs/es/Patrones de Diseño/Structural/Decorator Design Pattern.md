@@ -18,4 +18,4 @@
 
 ***
 ### <span style="color:grey">Link al Video de Youtube_53:</span>
-- 🔗 [053 - OOP IEC 61131-3 PLC -- Patrones de Diseño - Estructural - Decorador]()
+- 🔗 [053 - OOP IEC 61131-3 PLC -- Patrones de Diseño - Estructural - Decorador](https://youtu.be/mqOeQEtnT5o)

@@ -161,6 +161,7 @@ Por ejemplo, imagine que tiene un sistema de archivos, donde los archivos y los 
 - 🔗 [O que é Design Patterns (Padrões de Design)?](https://programadoresdepre.com.br/o-que-e-design-patterns-padroes-de-design/)
 - 🔗 [DesignPatternsConsideredHarmful](https://wiki.c2.com/?DesignPatternsConsideredHarmful)
 - 🔗 [De Cero a Experto en Arquitectura de Software, con Ángeles Vázquez | Ep 9](https://www.youtube.com/watch?v=u0kPSJa14Q8)
+- 🔗 [Los Patrones de Diseño Explicados: Claves para un Código Más Eficiente](https://www.youtube.com/watch?v=k74xpgRgvHw)
 
 ***
 ### <span style="color:grey">Link al Video de Youtube_34:</span>
