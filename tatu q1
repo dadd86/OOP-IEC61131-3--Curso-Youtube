@@ -1,0 +1,3951 @@
+[33mcommit 1553244efeca8c5d6863055647a712e6df374e27[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 30 12:32:28 2024 +0100
+
+    Design Pattern Structural Decorator
+
+[33mcommit 7953fcde8cbdc8565964d83cfdc1ffb9d621978d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Mar 29 20:52:21 2024 +0100
+
+    Design Pattern Observer
+
+[33mcommit bcb00b5aa691a0185b078716738c9f7e2ac68af2[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Mar 29 20:41:02 2024 +0100
+
+    Design pattern Structural Decorator
+
+[33mcommit 109436614b7eca371656e94f5cefc129977664fb[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 23 21:29:39 2024 +0100
+
+    Design Pattern Structural Composite
+
+[33mcommit e1885516a4b65c8d2185db2b9213232e8920f757[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Mar 19 10:44:57 2024 +0100
+
+    Design Pattern Structural Composite
+
+[33mcommit c7392e9cc1628e0de6a9657aa93d18de3a7304e2[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 16 21:29:08 2024 +0100
+
+    Design Patterns - Bridge.
+
+[33mcommit c3f173a790fa497b86ad740d6195d62f58ec307d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Mar 15 12:46:34 2024 +0100
+
+    Design Patterns
+
+[33mcommit a933885d158ee4d65aee13264c59b8bd2fcf2200[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Mar 10 19:04:22 2024 +0100
+
+    Design Pattern Adapter
+
+[33mcommit 53ad05ae1dc958be24040e8c9def32852ec8d421[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Mar 10 18:01:16 2024 +0100
+
+    Design Pattern Structural Adapter
+
+[33mcommit 02789971ccebbed1b1391274c4528ba83c00026d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 2 11:51:23 2024 +0100
+
+    Design Pattern Behavioral Visitor
+
+[33mcommit dd72002823389340604521bef1537de87c45e2b4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 24 21:46:01 2024 +0100
+
+    Design Pattern Structural Proxy
+
+[33mcommit 9a4de48a5d0d90ed86b0b754c77056fa66c17075[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 24 20:58:32 2024 +0100
+
+    Design Pattern Behavioral Visitor
+
+[33mcommit 4d265e83dfe5cfae86714fe2dd9abb0141b1ec41[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 24 19:24:14 2024 +0100
+
+    Design Pattern Template method
+
+[33mcommit 6b847837b29f4481402a3443288c6cb8c595f35b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 22 09:10:25 2024 +0100
+
+    Design Pattern Structural Flyweight
+
+[33mcommit 0d3dbea24fc325acf2910f26e3da2f9975c0a069[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 17 14:36:23 2024 +0100
+
+    Design Pattern Behavioral Template Method
+
+[33mcommit 56ad9682443b03248a21905ebade29f727ec6285[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 17 12:43:33 2024 +0100
+
+    Design Pattern Behavioral Strategy
+
+[33mcommit a30a0490a57e14c6c8adbf9c7f5302c8869bb2e7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Feb 12 08:21:04 2024 +0100
+
+    add Design Pattern Structural Facade project TwinCAT
+
+[33mcommit a6f5c08990bac5e407c01c5a18fb31a537f63bf7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Feb 12 08:09:05 2024 +0100
+
+    Design Pattern Facade
+
+[33mcommit 650c475e776b7cd47b8329f62e2314a551b7a0c0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 10 21:59:30 2024 +0100
+
+    Design Pattern Behavioral Strategy
+
+[33mcommit 951756ce57563ca31941b04c44af8590bc35e06a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 10 13:27:03 2024 +0100
+
+    Design Pattern Behavioral State
+
+[33mcommit ba29d63f53b562fd7e4d383c34958aee3a797620[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Feb 5 17:16:37 2024 +0100
+
+    add Project *.tpzip TwinCAT Design Pattern and Decorator Pattern
+
+[33mcommit c29fa874013807921e12fa3bea7581c1458de318[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 4 13:02:44 2024 +0100
+
+    Design Pattern Behavioral State add project TwinCAT and projects tpzip
+
+[33mcommit 5a4ee51934dc9dd1fbe845e327e75d51c49065b5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 3 21:19:58 2024 +0100
+
+    Design Pattern Behavioral Observer
+
+[33mcommit ee2b5c3f51eb3bb1ed8324213f67800238e63a0f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 30 11:13:01 2024 +0100
+
+    Design Pattern Structural Composite
+
+[33mcommit d10d6d169c8a0428946b594eabe5f297a8c69338[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 28 12:05:43 2024 +0100
+
+    Design Pattern Behavioral Observer
+
+[33mcommit 4f472e68bd716bfbeb593d422ceee25c5e9846e4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 27 13:20:39 2024 +0100
+
+    Design Pattern Memento
+
+[33mcommit e3d4b6d43c1f70d5293f9347df0fc2cfc6326a51[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jan 25 16:42:14 2024 +0100
+
+    Design Pattern Creational Prototype version2
+
+[33mcommit b1c3bec939bcbf6aeca46b648df52861f6e413af[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jan 25 14:05:16 2024 +0100
+
+    add Design Pattern Creational Prototype by Ben Harrison
+
+[33mcommit dd9aab706cf042cc2ea372b27bed091c6e211792[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 23 09:48:04 2024 +0100
+
+    Design Pattern Prototype issueMemory exception calling .Draw() on deleted clonedCircle. #13
+
+[33mcommit bd2ea1958049361c89a5c2a75f06785dd16e14f8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 22 12:14:17 2024 +0100
+
+    add diferents design patterns
+
+[33mcommit e9099f3e1907aeb0003c562f5433470aea0d43ad[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 22 11:42:27 2024 +0100
+
+    Design Pattern Structural Bridge
+
+[33mcommit 446db7d5cf4eacc4f22fd5b0f19f48b30f62d926[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 22 09:00:56 2024 +0100
+
+    Design Pattern Behavioral Memento
+
+[33mcommit 5d9f570333b04abb319e992da4f4a6418a70914e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 21 16:21:11 2024 +0100
+
+    issue #13
+
+[33mcommit 7ce8e2b287eb1e6d04ace0346b29d891181f0a7f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 21 16:01:40 2024 +0100
+
+    add design pattern creational prototype issue #13
+
+[33mcommit 131c0ae2e9685472758f72f39b32775d63339e8a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 20 21:52:38 2024 +0100
+
+    design pattern behavioral mediator
+
+[33mcommit 6b5093c0b42ad46b6b1a7783ca11a12dc88b404c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jan 18 13:59:29 2024 +0100
+
+    add project TC3 Design Pattern Structural Adapter
+
+[33mcommit 4609a129f03c79fb11e9ba19e057c72df6c1c783[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jan 18 13:33:48 2024 +0100
+
+    add Design Pattern Structural Adapter
+
+[33mcommit e752fba9471884ea945030490f71340d5ab6ee52[m[33m ([m[1;31mupstream/master[m[33m, [m[1;31mupstream/HEAD[m[33m)[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 17 11:36:35 2024 +0100
+
+    Design Pattern Behavioral Mediator
+
+[33mcommit 135816b26bd56955a013b2c7cc9468f983c5ea50[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 14 14:27:30 2024 +0100
+
+    design pattern behavioral iterator
+
+[33mcommit 1b250c88a8222e3eee5c949ce8603ef8d3d72118[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 8 11:52:09 2024 +0100
+
+    Design Pattern Behavioral Iterator
+
+[33mcommit f32f25d221a8ec1f8eab23969225011b4b4e634f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 8 11:20:19 2024 +0100
+
+    modify Design Pattern Behavioral Iterator
+
+[33mcommit 82f1d3e8e03c13a2111f6f60d9e050d66a650adc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 7 22:40:32 2024 +0100
+
+    readme.md
+
+[33mcommit 07843a3adf1e98db3880ce0eda574f1a587d34bd[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 7 21:22:54 2024 +0100
+
+    command pattern
+
+[33mcommit 1f02a486a01f7ec191a860a87ce2f1412e440e07[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 7 21:13:22 2024 +0100
+
+    design patterns
+
+[33mcommit 5494914bde0227c083a50e629b7e1f1e4d7415ce[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 2 14:52:01 2024 +0100
+
+    Design Pattern Behavioral Command
+
+[33mcommit 90aa451700a1db0013acffad2d84ba42de98e949[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 30 20:18:34 2023 +0100
+
+    readme
+
+[33mcommit 4bdc9250a07eea7a180edecb6110718e725da8e0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Dec 29 13:07:49 2023 +0100
+
+    Design Patterns Behavioral
+
+[33mcommit bfcb5553f7a5da70b037a62783fd510e44860ea0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 23 21:58:14 2023 +0100
+
+    readme.md
+
+[33mcommit 1c30a356edb7c5f0685490c03896746f26c0b685[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 23 20:16:57 2023 +0100
+
+    singleton
+
+[33mcommit 84739acff77a2dba890304aee49af0da7d8b658b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 23 20:00:21 2023 +0100
+
+    Singleton
+
+[33mcommit 728da50af399cf3098d3acf3c2e0cd68148bbb3b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 23 19:55:49 2023 +0100
+
+    singleton
+
+[33mcommit a86792f63bbd0ddfaed50a46c24897586caf4e2a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 23 14:23:47 2023 +0100
+
+    singleton
+
+[33mcommit 90953c47600c1fb3bedafcace20c771fea58dd85[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 23 14:19:08 2023 +0100
+
+    singleton
+
+[33mcommit 883cfdb47a45a3c8358a07ef0ec0e35899e44114[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 23 14:15:38 2023 +0100
+
+    Singleton
+
+[33mcommit 13677664899a30953a8488026a126f05128040f5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 23 14:13:56 2023 +0100
+
+    Singleton
+
+[33mcommit f482d22048f6786e7508975fdf306d5e661d860d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 23 12:58:58 2023 +0100
+
+    Design Pattern Creational Singleton
+
+[33mcommit 057260fed971f1b36303e7eeb75547a48dd6e0a5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 16 12:41:23 2023 +0100
+
+    modify readme.md
+
+[33mcommit 03f9388f2df7ed43eeaa84b490ebbd95d3cae1ec[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 16 11:42:09 2023 +0100
+
+    modify readme design pattern creational prototype
+
+[33mcommit 5c4a2818490e1399f400511ead423d6c30ebd546[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Dec 16 11:31:59 2023 +0100
+
+    Design Pattern Creational Prototype readme.md
+
+[33mcommit a866ed2e5cc05170222b23d3fcd7b5d577e00ebe[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Dec 14 11:45:49 2023 +0100
+
+    Design Pattern Creational Prototype
+
+[33mcommit 60fff4c5b41d41411f9f15f70000df705adabf03[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Dec 6 21:19:33 2023 +0100
+
+    Design Pattern Creational Prototype
+
+[33mcommit a96f684375f5cb82de2c51dfec727b38fb95e08c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Dec 6 16:12:22 2023 +0100
+
+    Design Pattern Creational Prototype
+
+[33mcommit c80ea2f92438f25efa7cf4b92f51d1daa2a6426b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Dec 6 15:33:27 2023 +0100
+
+    Design Pattern Creational Prototype
+
+[33mcommit 91e27a7e285ed1b74585fc476d77fa3b819869a3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Dec 4 15:06:52 2023 +0100
+
+    Design Pattern Creational Builder
+
+[33mcommit 70bf65d8db608f9ebeaba748af66144a59a8729d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Nov 30 17:37:39 2023 +0100
+
+    admonitions
+
+[33mcommit a7f176766bc21aba8f3a537b5140ea29bc12662a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Nov 30 17:24:52 2023 +0100
+
+    mkdocs test admonitions
+
+[33mcommit a7041ed2ec3bac7291fdebe65872eb5f322d6d76[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Nov 27 11:44:14 2023 +0100
+
+    Design Pattern Creational Singleton
+
+[33mcommit 683cde47875717ef942f02901ccf892a4b3d8bff[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Nov 26 20:37:15 2023 +0100
+
+    add Design Pattern Creational Builder Visu PLC
+
+[33mcommit f092f789a802f9527df9a220e19d46e875c6bb3e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Nov 26 18:16:08 2023 +0100
+
+    Design Pattern Creational Builder
+
+[33mcommit 2bbcdd0708b6c3289c2ee47e72e591853c80ce03[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Nov 25 15:32:56 2023 +0100
+
+    Design Patterns Creational Factory Abstract
+
+[33mcommit 841e87f0138c0bdba16894f611feda05aab91c5d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Nov 22 14:01:00 2023 +0100
+
+    Design Pattern Creational
+
+[33mcommit ac0394292bd2557cf51ea873c44628cb8ffc8658[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Nov 22 13:38:19 2023 +0100
+
+    Patrones de Diseño
+
+[33mcommit 882732f67e1d756f6c365759ed1df120a668b107[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Nov 19 20:08:27 2023 +0100
+
+    Design Patterns Creational Factory Abstract
+
+[33mcommit 95bbb7333d3aa9d0b1ea23140e521ac08d28c2bb[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Nov 18 15:03:51 2023 +0100
+
+    Design Patterns Creational Factory Abstract
+
+[33mcommit bf23962521f89939b04f22edece54b51ff8141af[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Nov 13 09:40:02 2023 +0100
+
+    Design Pattern - Creational - Factory Method
+
+[33mcommit fb18a396781daf03262d4649346fc18c848efe79[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Nov 13 09:26:04 2023 +0100
+
+    Design Pattern - Creational - Factory Method
+
+[33mcommit 12da6841848ca7200512026babfbdddb3f0e2ac2[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Nov 12 13:51:02 2023 +0100
+
+    Design Patterns Introduccion
+
+[33mcommit 4481dc2c4c28dfa01e59c20eb7ca721bbfd56857[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Nov 5 10:38:28 2023 +0100
+
+    Design Pattern Factory Method
+
+[33mcommit a3be4b4d239482f6d977a38fe4d703364740d432[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Nov 4 23:00:20 2023 +0100
+
+    Patrones de Diseño Introducción
+
+[33mcommit 2bb1d0f52abf2283e57efbec2bf13f481db9e6a1[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Nov 4 21:59:50 2023 +0100
+
+    Patrones de Diseño
+
+[33mcommit 5944dca968028f36f7360557bfae6fbaa8e12969[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Nov 4 21:53:39 2023 +0100
+
+    Patrones de Diseño
+
+[33mcommit 413d7425526475e07dd783f9fb8e00cccc50d31a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Nov 4 21:04:31 2023 +0100
+
+    Patrones de Diseño
+
+[33mcommit ebcce067ad53bbc21d8f3a8083ee29cecc65f3ca[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Nov 4 14:09:03 2023 +0100
+
+    readme
+
+[33mcommit b004dcb644180dd73f4587846966c25662eda382[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Nov 4 12:36:30 2023 +0100
+
+    Tipos de Diseño para programacion OOP
+
+[33mcommit 79ff194d8c0e09a9924f904aba166131123f5505[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Nov 4 12:05:35 2023 +0100
+
+    Tipos de Diseño para Programación de PLC
+
+[33mcommit d37e6a69116c782a8e9492792f0cda259eedd9df[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Nov 3 16:18:26 2023 +0100
+
+    var generic constant
+
+[33mcommit f55445808b04aed20a5fee4e99aa6a77e25f022e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Oct 31 12:05:43 2023 +0100
+
+    TwinCAT 4026 override input
+
+[33mcommit 1506b0f14c62cac44c70e89870dfd351a43dc8bc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Oct 29 12:47:58 2023 +0100
+
+    Design Patterns
+
+[33mcommit b37815f3e552bfcf72bf6f20c97667bb26016572[m[33m ([m[1;33mtag: 0.0.8[m[33m)[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Oct 29 12:22:40 2023 +0100
+
+    Tipos de Diseño para programación de PLCs
+
+[33mcommit aa0ec6d9c8f934abd9fbc1cdb386afacc3baca6d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Oct 28 13:31:03 2023 +0200
+
+    UML StateChart
+
+[33mcommit 928b897857cd8c742afda8b3f01aff259a7746b4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Oct 28 12:41:47 2023 +0200
+
+    UML StateChart
+
+[33mcommit c9947de97b0ea2998fe4e81740db8c309fb81a6f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Oct 28 12:25:11 2023 +0200
+
+    UML StateChart
+
+[33mcommit e69dee8fc0979411342fc1ea10f5a8601c21e8c0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Oct 22 20:15:00 2023 +0200
+
+    UML StateChart
+
+[33mcommit 5d3e43288bc1a6c234039184acc0b15f319cee30[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Oct 22 18:00:30 2023 +0200
+
+    UML Relaciones TwinCAT program
+
+[33mcommit be3df8a5e1e2d4ae73ef56e32c7c24ff87f2278a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Oct 22 15:49:40 2023 +0200
+
+    UML Relaciones
+
+[33mcommit ef82fd1e99c166ecac023fc255d6dbbe7c0a42db[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Oct 22 15:31:43 2023 +0200
+
+    UML
+
+[33mcommit 829f47342e50ab30406578818f125ec131f2c8f1[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Oct 22 15:05:43 2023 +0200
+
+    UML relaciones
+
+[33mcommit 44696c0a64dbb0e026459f1521838783bbb1b284[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Oct 22 12:28:11 2023 +0200
+
+    UML relaciones
+
+[33mcommit 5260e7f838f59864cac704504a74783b9f1e4ff6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Oct 14 22:51:00 2023 +0200
+
+    UML State Chart
+
+[33mcommit 3f5ddbd4dce1785d0fd9c18f12792786c2363efe[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Oct 14 21:05:14 2023 +0200
+
+    UML Class Diagram
+
+[33mcommit d460b6367c3be31adfda7d7cdf4a22c03e045b6c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Oct 9 09:39:55 2023 +0200
+
+    OOP Principios Link
+
+[33mcommit 415144c7421be566c3575958f9ea745b769115f7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Oct 9 08:41:41 2023 +0200
+
+    Diagram Class UML
+
+[33mcommit 772edb537a673c337a6ffafb1767e90600c0d9dd[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Oct 8 19:03:17 2023 +0200
+
+    UML Introducción
+
+[33mcommit c9e5f93647a70a44fa68d1b8447aff8381ae848c[m[33m ([m[1;33mtag: 0.0.7[m[33m)[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Oct 6 09:17:07 2023 +0200
+
+    UML
+
+[33mcommit 3522c5486c0b8f924d49dfa56806afa94b14f3ea[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Oct 6 08:58:26 2023 +0200
+
+    actualizaciones links
+
+[33mcommit 1916fa335bf20ffc4295f01c8495305d50f91216[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Oct 5 12:03:41 2023 +0200
+
+    actualizar links
+
+[33mcommit b45743eeb2c775db15e01f320b8631f5479cb719[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 30 15:17:20 2023 +0200
+
+    Actualizacion de Herencia
+
+[33mcommit fcb75911e87aaffade209d4da2c76b680ce2304b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 30 14:57:29 2023 +0200
+
+    UML
+
+[33mcommit 9a59635dfe612e035a208652d7d40da7d8791af9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 30 14:45:21 2023 +0200
+
+    UML
+
+[33mcommit 38f20f9d35f923dca3ceca0bca2fad88bc453f94[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 30 14:36:05 2023 +0200
+
+    UML
+
+[33mcommit 942b080916aebd090228eb1ae706669de5e60952[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 30 14:19:36 2023 +0200
+
+    varias actulizaciones
+
+[33mcommit dfec2a4e6837b974c46f9bf1db38ca25aa725ca7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 30 12:40:45 2023 +0200
+
+    UML relaciones.md
+
+[33mcommit 713cbc79c7825e5bfcb361ccc6ec47ef3d706dc0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 30 12:11:01 2023 +0200
+
+    UML
+
+[33mcommit 0e981827ef3ddfe4d10d100086c0f4951da2ae89[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 30 11:02:21 2023 +0200
+
+    SOLID DIP
+
+[33mcommit 726cec944afb03a96933dbf5e7f53888d2f61772[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Sep 28 12:52:59 2023 +0200
+
+    mkdocs.yml spanish
+
+[33mcommit 1ad1c20a57413c8466398b31bcfc7792f0b1982d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Sep 28 12:33:09 2023 +0200
+
+    modificado indice spanish
+
+[33mcommit c57788ab31da1a2e555059f4632e11dd7d4e479f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Sep 28 12:30:46 2023 +0200
+
+    Unit Test.md
+
+[33mcommit f89492381bb0f537fc215f7e046e9feeb08556bf[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Sep 28 11:37:09 2023 +0200
+
+    modificado indice
+
+[33mcommit b4c9238add35ae8cc6b4628ed6383db37ea04300[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Sep 28 11:32:37 2023 +0200
+
+    add Simulacion.md
+
+[33mcommit f0ab113073a246ee0c0fa8c5718eab25b348468b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Sep 27 13:53:52 2023 +0200
+
+    Class diagram UML
+
+[33mcommit bc10ac30a158b7cf66cb8e9fbc9d04e6ae71f2ef[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 23 23:49:43 2023 +0200
+
+    publicacion.md
+
+[33mcommit 72be9ab186f10feb2bf699be2a4028689d8b6598[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 23 20:56:38 2023 +0200
+
+    Update publicacion.md
+
+[33mcommit e77d06da8b7234e0dfb651e820948f38718030ef[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 23 13:25:15 2023 +0200
+
+    publicacion
+
+[33mcommit c2338748a70d863ec1c24962722f7476ac5e5602[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 23 11:53:40 2023 +0200
+
+    SOLID_DIP
+
+[33mcommit 3d31eb8798497722d2bec0f739b60cc46f9e4784[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Sep 19 12:40:19 2023 +0200
+
+    SOLID
+
+[33mcommit 15e63191a1529e9b266e32eaf976da62536f4857[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Sep 19 12:36:36 2023 +0200
+
+    SOLID
+
+[33mcommit 1353317499e7851a33069eb45565b7f9db574be9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Sep 19 12:31:27 2023 +0200
+
+    SOLID - LSP
+
+[33mcommit 43a963f7deb5443cbc26fbc6148afce424d6a49d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 16 22:19:49 2023 +0200
+
+    publicacion
+
+[33mcommit ed42913c3ee054cc6de6c90e7d728fdcf29719c7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 16 22:06:13 2023 +0200
+
+    Classdiagram UML
+
+[33mcommit a133a109bbfe0a24263e17162fb09ae8ca564e99[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 16 21:53:08 2023 +0200
+
+    UML
+
+[33mcommit 3ae6682ea910f5f0c70ce3060e6c28060dd47083[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 16 21:50:32 2023 +0200
+
+    diagrama de Clases
+
+[33mcommit 45753abf26d7198f817192ba306d846845523fbd[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 16 21:30:39 2023 +0200
+
+    Class Diagram UML
+
+[33mcommit b905acbec17e7d6a16f199ab8f49ec7a2d7b6293[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 16 13:37:26 2023 +0200
+
+    SOLID_ISP
+
+[33mcommit 0bf5388dab0cb57c4715c4bf65f74844963b321b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 16 12:31:59 2023 +0200
+
+    SOLID_LSP
+
+[33mcommit dad09855086bb2c9a0aa41f28682bb66efbd2ab4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 16 12:31:24 2023 +0200
+
+    SOLID LSP
+
+[33mcommit 6b395090edaab79314e914ecfeaa75c02e5d2da4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Sep 11 10:30:23 2023 +0200
+
+    links varios
+
+[33mcommit 8b652a1b11390ac2426840aff379f4383843cb30[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Sep 10 18:04:01 2023 +0200
+
+    ExST Threes Soup01
+
+[33mcommit 428f2f777a4cc148139e0841929834ed7b193f03[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 9 19:53:42 2023 +0200
+
+    funding.yml
+
+[33mcommit 0ef3531c083832c8427b56a1f44e10a72c07b8f7[m
+Merge: 38818072 76e71b45
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 9 19:49:28 2023 +0200
+
+    Merge branch 'master' of https://github.com/runtimevic/OOP-IEC61131-3--Curso-Youtube
+
+[33mcommit 388180725fe4e0dac85192e40c66505bb5ed297f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 9 19:47:47 2023 +0200
+
+    funding.yml
+
+[33mcommit 76e71b453aadce69727b8e4f30835fa5414a4a93[m
+Author: Runtimevic <53791834+runtimevic@users.noreply.github.com>
+Date:   Sat Sep 9 19:31:07 2023 +0200
+
+    Update FUNDING.yml
+
+[33mcommit 1b54276f6903ddcba09a03b70c3e3dd59ef6cac3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 9 19:15:19 2023 +0200
+
+    patrocinador
+
+[33mcommit 5b28330eb867e658dbdea57e09b6b3db3bcc3cae[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 9 19:00:02 2023 +0200
+
+    patrocinador
+
+[33mcommit 8268165cd0fd86f649871b2dbae06f25c1039658[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 9 18:57:53 2023 +0200
+
+    FUNDING.yml
+
+[33mcommit 082f7e66643ca5ce7fc493c144c54638ff43b83d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 9 12:40:51 2023 +0200
+
+    SOILD OCP publicacion
+
+[33mcommit d5a791c532e0e897efed1eae98d3f1bd67f5f607[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Sep 9 12:38:21 2023 +0200
+
+    SOLID OCP
+
+[33mcommit 9321c2e4b53447fe77fcb17177a3a41cb4cd9959[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Sep 7 17:30:43 2023 +0200
+
+    software units
+
+[33mcommit c099044906600c90a45a825920a2ec60a59e2367[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Sep 7 16:29:40 2023 +0200
+
+    CI/CD Git
+
+[33mcommit 0b709cc78dbe8fde5e32ded5820b24f269ce3d92[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Sep 7 10:30:38 2023 +0200
+
+    SOLID OCP
+
+[33mcommit b5b666ea25adea000115850a7d3b170b54898ece[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Sep 7 10:25:56 2023 +0200
+
+    UML Class Diagram
+
+[33mcommit d455e7f08e374ebc68717d6df7168f60ae46f440[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Sep 7 08:38:59 2023 +0200
+
+    SOLID LSP
+
+[33mcommit 9f29a5982ff9796f2a04f8f1c250de028ec7122a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Aug 9 20:52:46 2023 +0200
+
+    objeto propiedad1
+
+[33mcommit dbe86c388483d0cf0548df7ceb6f5adaf984748e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Aug 9 20:51:32 2023 +0200
+
+    objeto propiedad
+
+[33mcommit f0b3bfe163eaf67cfbe154a1796bf893874133af[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Aug 8 20:59:52 2023 +0200
+
+    SOLID
+
+[33mcommit 7fb76edeef36543f8b4bc5283ccc9db56d036c17[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Aug 7 19:35:01 2023 +0200
+
+    SOLID_OCP
+
+[33mcommit 06beb4685b18ab34ddfba3adc019f8567a25d2e7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Aug 6 12:53:52 2023 +0200
+
+    SOLID -- SRP
+
+[33mcommit 655e3c372cd7f1b5500d93d83ae781171eed9a60[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Aug 5 22:16:49 2023 +0200
+
+    Adapter Design Pattern
+
+[33mcommit 1981724d92e417263f541fe073a8fbce4e5728fc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 29 11:50:23 2023 +0200
+
+    SOLID
+
+[33mcommit f05c01faadd88fab27b9db318a9c090666991e50[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 29 11:45:23 2023 +0200
+
+    OCP
+
+[33mcommit 80871a939da34dfec802bc08ffbaf23f2d133485[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 29 11:17:51 2023 +0200
+
+    SOLID
+
+[33mcommit 34c36e06b5da845beadac3dd63393dcaf53b5853[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 29 10:51:09 2023 +0200
+
+    SOLID
+
+[33mcommit ae7bcfc83969467f448a9135366793345e97567a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 29 09:43:12 2023 +0200
+
+    Update Unit Test.md
+
+[33mcommit 19d0e2ee1f85bb2d9d7141c716fa3bbf84843938[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jul 28 11:05:49 2023 +0200
+
+    Librerias
+
+[33mcommit ebe312f8d099ffcf2da550eb8980a7dda5448e4d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jul 27 12:55:05 2023 +0200
+
+    README
+
+[33mcommit 51503edd1b81712baaf2e7111428208a6dcec212[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jul 27 12:53:02 2023 +0200
+
+    Youtube024_SOLID_SRP
+
+[33mcommit 2e17fb7de018c98fad3dd489c895808f1c055794[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jul 27 12:29:54 2023 +0200
+
+    23_SOLID_SRP xml
+
+[33mcommit 66e1748916cc2439f5fe1bd69216ceab085400c5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jul 27 12:24:45 2023 +0200
+
+    SOLID SRP
+
+[33mcommit b7556cab20439eef77b004c0f724905d84d804f1[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jul 27 09:17:31 2023 +0200
+
+    publicacion
+
+[33mcommit a7ca74c09d2ad128af2a58cf2895cde8e61943df[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 22 10:23:13 2023 +0200
+
+    polimorfismo
+
+[33mcommit 67358007231d83f25195c19fd5dff7488986559a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jul 21 10:44:31 2023 +0200
+
+    index
+
+[33mcommit 0b9b034e36c0986b1d1c6e22cd945ffd73d871b8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jul 21 10:08:59 2023 +0200
+
+    Integration Test
+
+[33mcommit ecb32ad1d6743af9fa3231b47f5ff8a43b9e445f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jul 19 10:11:46 2023 +0200
+
+    links
+
+[33mcommit cb08616317abe4e18fc3341b7ff6d6b58459b2a5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jul 17 18:21:22 2023 +0200
+
+    pointer and reference
+
+[33mcommit 4918b6ba69da21943ad1fc28a17dc08e165bc12c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 18:25:42 2023 +0200
+
+    mkdocs
+
+[33mcommit 70043f6d0802febee0c9037a5f57ab7656522c68[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 18:19:05 2023 +0200
+
+    mkdocs
+
+[33mcommit cb8fb48e2c5e5ef6b79eb8a88a7b4b6ea04f5829[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 18:08:22 2023 +0200
+
+    colaboradores
+
+[33mcommit 34a7547370694d257e6af9b74fbb99bebe029deb[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 17:56:33 2023 +0200
+
+    fecha ultima modificacion en pie de pagina
+
+[33mcommit d578c1599b672c03f9300c1e9375fa4d7fa884ca[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 17:47:38 2023 +0200
+
+    avatares colaboradores
+
+[33mcommit 1c4b9483577dbd2a4e729e22b174a79041b9d208[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 17:39:01 2023 +0200
+
+    authors
+
+[33mcommit 37dd0ea34aa6f8ebc6b93310f92b12bb0456713d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 17:27:26 2023 +0200
+
+    mkdocs
+
+[33mcommit 502b292a168918f165ffe1bf472c9b280fce3f2a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 17:07:51 2023 +0200
+
+    mkdocs
+
+[33mcommit cc44b264d6fb3c44f28b40b176764bf99abc714d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 16:57:46 2023 +0200
+
+    mkdocs
+
+[33mcommit 0306f16f9e3bcab97f0e833713cda12abb071f14[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 16:42:27 2023 +0200
+
+    colaboradores añadir al pie de pagina
+
+[33mcommit 070d3ecea8128fb63d22ac9f8da55fb0ba765767[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 16:21:58 2023 +0200
+
+    mkdocs
+
+[33mcommit c42ee674455f4dc4e1bc3c075f54a4b8f58bb616[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 16:10:15 2023 +0200
+
+    mkdocs
+
+[33mcommit bd386c6243028c9ef02063d82a0af0f814a0cc65[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 15:48:11 2023 +0200
+
+    polimorfismo
+
+[33mcommit 94cd07e9d89227f6441a35a8bfbfbf58d24279ba[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 8 11:52:27 2023 +0200
+
+    4 Pilares OOP
+
+[33mcommit ff9d8a9c41e0453063a45fdb41fa169316816120[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jul 6 15:35:54 2023 +0200
+
+    mkdocs
+
+[33mcommit 6a69a44ae5facfedd6e86873045f43da351e3f91[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jul 6 15:15:48 2023 +0200
+
+    mkdocs
+
+[33mcommit f4cdd3dd3d33db7db753825af2f830f3437fd696[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jul 6 15:05:33 2023 +0200
+
+    mkdocks.yml
+
+[33mcommit f104e7be322069ba2e61cd316a79a8847cf4b492[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jul 6 14:21:28 2023 +0200
+
+    Herencia
+
+[33mcommit a7378673338083d06370709f9630f657c86708f4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jul 6 13:37:21 2023 +0200
+
+    4 pilares OOP
+
+[33mcommit c4108ee047b340b21ed6f0dd99241836d99523b4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jul 2 22:17:49 2023 +0200
+
+    links
+
+[33mcommit 42fcef21cd51ad787d679d77099a1aa756e0a0b7[m[33m ([m[1;33mtag: 0.0.6[m[33m)[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jul 1 18:51:14 2023 +0200
+
+    4 Pilares OOP - Abstraccion
+
+[33mcommit c516052a3a5647c78e487f66b5308f980f9becaf[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jun 27 13:25:14 2023 +0200
+
+    tipos de datos
+
+[33mcommit 86ecd8f6fadd9bc059b9ed5e334d0db709b1f72d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jun 26 16:55:13 2023 +0200
+
+    tipos de datos
+
+[33mcommit 61ebaff25e36aee569a168be1573adb8ea9b5a96[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 24 11:15:44 2023 +0200
+
+    ExST
+
+[33mcommit 8e5f85bda27abf5dc3897b443f78b19571b0b328[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jun 23 16:27:52 2023 +0200
+
+    ExST
+
+[33mcommit ea0e1a2e1d053e6b41a4c9b1dee95bed7a1c0abc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jun 23 13:01:44 2023 +0200
+
+    ExST
+
+[33mcommit cc33432a86eba5f443037371acfb2ace0d140e08[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jun 23 12:22:58 2023 +0200
+
+    ExST
+
+[33mcommit a4e0c0c51e9037ea67687c8b7cddfe019e5db153[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jun 23 12:12:05 2023 +0200
+
+    ExST
+
+[33mcommit 749284029c4cef2af7c49f3d958f6b071fd49412[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 17 22:29:57 2023 +0200
+
+    CI/CD
+
+[33mcommit 717fc76d83e1256aa42427a47b12db2857501de9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 17 21:28:53 2023 +0200
+
+    CI/CD
+
+[33mcommit efc8262be15e8f856b9fb8e99b9a051ffc4f5d76[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 17 15:27:06 2023 +0200
+
+    Otros Operadores
+
+[33mcommit 12737cdcdb2c370be6ddb66a97de8bdefc1ce28c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jun 15 17:29:26 2023 +0200
+
+    index
+
+[33mcommit 1e992a0c514670b83f68c5eb129c16ec6b6ac451[m
+Merge: 462cab00 08ca5152
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jun 14 13:04:50 2023 +0200
+
+    Merge branch 'master' of https://github.com/runtimevic/OOP-IEC61131-3--Curso-Youtube
+
+[33mcommit 462cab005c4ab2bcfc1d286e751cb1cd79b3241b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jun 14 13:04:05 2023 +0200
+
+    Otros Operadores2
+
+[33mcommit 08ca51521d6700a7b19edc3fb702e3e22056fe53[m
+Author: PatrickMAdmin <43824368+PatrickMAdmin@users.noreply.github.com>
+Date:   Mon Jun 12 09:17:51 2023 -0500
+
+    Inital Commit
+
+[33mcommit d52f9bdfe51acf3ee4c06d5a4c2be7963e9324e6[m
+Author: PatrickMAdmin <43824368+PatrickMAdmin@users.noreply.github.com>
+Date:   Mon Jun 12 08:54:47 2023 -0500
+
+    Renamed File
+
+[33mcommit e93759457ddf208a4b29e35d3c039fcf8bf9c9e2[m
+Author: PatrickMAdmin <43824368+PatrickMAdmin@users.noreply.github.com>
+Date:   Mon Jun 12 08:49:25 2023 -0500
+
+    Inital Commit
+
+[33mcommit b61f153d4c8c7495593edec1211b417d296c7ee1[m
+Author: PatrickMAdmin <43824368+PatrickMAdmin@users.noreply.github.com>
+Date:   Mon Jun 12 08:28:49 2023 -0500
+
+    Inital Commit
+
+[33mcommit 6089bd83166e38f48c3db66f1a3596da69d3ad61[m
+Author: PatrickMAdmin <43824368+PatrickMAdmin@users.noreply.github.com>
+Date:   Mon Jun 12 08:28:33 2023 -0500
+
+    Changed File Name
+
+[33mcommit 0455eff0fb8c46afec95e7ce6a00eba59a080388[m
+Author: PatrickMAdmin <43824368+PatrickMAdmin@users.noreply.github.com>
+Date:   Mon Jun 12 07:46:49 2023 -0500
+
+    Inital Commit
+
+[33mcommit c727b4af0fd1378d5d5e64ef5d2973e13deda055[m
+Author: PatrickMAdmin <43824368+PatrickMAdmin@users.noreply.github.com>
+Date:   Mon Jun 12 07:43:39 2023 -0500
+
+    Inital Commit
+
+[33mcommit f4fa3fb1f0bf0ab132887063ab2e6bc20bb0f2f0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jun 14 11:20:14 2023 +0200
+
+    otros operadores
+
+[33mcommit 8c5e45d1fd82b5faf4ec78eced6d137a56f04231[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 10 22:00:39 2023 +0200
+
+    UML
+
+[33mcommit 2ff55fe0f457616e8eb74a0d8f933a5cdfeed9b3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 10 14:44:31 2023 +0200
+
+    plcopen xml y youtube017
+
+[33mcommit ceed6fd976ae5ee9041ba87c9c536c44c72f5d0a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 10 12:02:25 2023 +0200
+
+    otros operadores
+
+[33mcommit 768d8c3a9f106d33ad58c8cdc3507dc6e1019b8e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 10 11:24:24 2023 +0200
+
+    otros operadores
+
+[33mcommit 72e666a37be46a4edc0260b348074d0e4051641d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jun 8 14:07:38 2023 +0200
+
+    links añadidos
+
+[33mcommit 89644fabc6f53aa3df74ebec73a733a4e99f0be4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jun 4 20:08:22 2023 +0200
+
+    UML
+
+[33mcommit eceb4c612934e00c064e43ad6bcda14cc24730a2[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jun 4 19:13:33 2023 +0200
+
+    OOP links
+
+[33mcommit 0cd2b0e8de9369543df9566cf7983c9f963808f8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 3 19:31:53 2023 +0200
+
+    modificaciones
+
+[33mcommit a0b2c1b36eb1476ce5900d06451f08fbbd14b724[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 3 13:19:15 2023 +0200
+
+    mkdocs portugues
+
+[33mcommit 281be691a3c733dc33821ae7d5e4c5d65d25aae8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 3 13:08:33 2023 +0200
+
+    portugues
+
+[33mcommit 6e8b60cb1c4777670226c7c320a1ae63f2287a94[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 3 13:05:36 2023 +0200
+
+    readme
+
+[33mcommit 2ff79d084faa823d8eb962458fc2edc6e346a825[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 3 13:04:28 2023 +0200
+
+    readme
+
+[33mcommit 8d2188b0c0a4023e766cc1ad7c9d983d7df00de6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 3 13:02:39 2023 +0200
+
+    readme
+
+[33mcommit e299793059e835a741fb1387d507e3bedb78d6d9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 3 12:45:38 2023 +0200
+
+    portugues
+
+[33mcommit 23e2f9282ecf3171dc547125b74364ed8dfd66a2[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 3 12:30:03 2023 +0200
+
+    readme portugues
+
+[33mcommit 5746a76279ae8247c9d5478d608db5fc8b9138ee[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 3 12:23:56 2023 +0200
+
+    portugues
+
+[33mcommit 2acacca18fc5df3dc1d4fa7538b23bef4574daaa[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jun 3 12:14:23 2023 +0200
+
+    añadir idioma Portugues
+
+[33mcommit ba6f181bdf3b632fd5a11486a5b4c72ab46ec344[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 27 12:38:02 2023 +0200
+
+    Otros operadores
+
+[33mcommit 0c136360546cf31ddbda518a82bff3b08a47be5c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 27 12:15:28 2023 +0200
+
+    Otros Operadores
+
+[33mcommit 22b4a8ccd1e868e3638683d3fb440d879852bdb4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 27 11:28:59 2023 +0200
+
+    Interface vs Herencia
+
+[33mcommit 681a0b5b38d2e033be936415fff19f05d5cb4e27[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed May 17 16:23:37 2023 +0200
+
+    UML
+
+[33mcommit f5f4ef559d5a2b22bc5f8f0a38e5f96976fd66a2[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed May 17 14:42:26 2023 +0200
+
+    mkdocs
+
+[33mcommit 2bf37905b9b11217065afae052039a2b6c516c69[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed May 17 13:57:39 2023 +0200
+
+    Patrones de diseño
+
+[33mcommit 26dac91dbafd2d8bbc732ccee6bed8d19ac113dc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed May 17 12:12:25 2023 +0200
+
+    ExST
+
+[33mcommit ffe69c31b347312a0b2c57475bc3085b3cdd0b65[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed May 17 11:04:51 2023 +0200
+
+    TDD
+
+[33mcommit 46237c830f4cc975e0d8b05b076cea0210f1696a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue May 16 09:18:01 2023 +0200
+
+    UML
+
+[33mcommit 0894757ac845c4e933c33314c5982a2521bf7147[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 15 17:03:23 2023 +0200
+
+    corregir 2 errores de construccion
+
+[33mcommit b2f188b63cde95f58259d28efba24267c537fe13[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 15 16:49:52 2023 +0200
+
+    idioma ingles imagenes
+
+[33mcommit 2d265424813b347a29dba1fc02e2008da7de82bc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 15 16:35:26 2023 +0200
+
+    imagenes
+
+[33mcommit 9fd133434d3ce62e0d294132bf8b11407a4ae920[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 15 16:28:34 2023 +0200
+
+    solid
+
+[33mcommit 636fdb08938ec435e0f34b924fa986c8f9780fb7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 15 16:05:50 2023 +0200
+
+    Design Patterns
+
+[33mcommit 1030db650ec175997cff68ad6b30bfb9887e63ae[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 15 15:48:10 2023 +0200
+
+    design patterns
+
+[33mcommit 2e99b563ff164f1355ce713dd1dfffbc7934d00e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 15 14:57:45 2023 +0200
+
+    UML
+
+[33mcommit 73b91a7e69a367fae91e006672226ba3a03f12ae[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 15 13:50:12 2023 +0200
+
+    modificaciones
+
+[33mcommit e9d75f578d826de1b09fcde571761e6a4b11bf58[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 15 08:40:19 2023 +0200
+
+    herencia
+
+[33mcommit 37048e0b4f703e49a1303073eb8e8dc49a5c3a45[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 13 15:20:06 2023 +0200
+
+    solid
+
+[33mcommit 40d755e5dbdf50db4a1f227e4ab391924b0a6bee[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 13 15:08:27 2023 +0200
+
+    solid
+
+[33mcommit 02e85211a3f98716c0935767a2936d231cbd51ed[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 13 14:59:04 2023 +0200
+
+    solid
+
+[33mcommit 1974142a90b2c81425af2ca1e84917738e57fd72[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 13 14:01:35 2023 +0200
+
+    tipos de datos
+
+[33mcommit 12aca2764a478286232b711f0b353f949e232189[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 13 13:16:31 2023 +0200
+
+    tipos de datos
+
+[33mcommit 12956ee836f3bc05f06727b7ec323350481efbc8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 13 12:19:33 2023 +0200
+
+    Interface Fluida
+
+[33mcommit a249a3cde6919be16e695273bf31b4654b2cc20e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 13 10:29:15 2023 +0200
+
+    Fluid Interface
+
+[33mcommit 22a03062c4a3b163f6f4d8e258d634418a6c9dde[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri May 12 14:16:54 2023 +0200
+
+    tipos de paradigmas
+
+[33mcommit 708620ce2b3bfd3c1bb718edba92c3e8b15ad1a9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri May 12 13:57:32 2023 +0200
+
+    italiano
+
+[33mcommit f06c107592d1c61145e9a9bd1efebf86e3465bee[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri May 12 13:40:03 2023 +0200
+
+    imagenes
+
+[33mcommit a115b714c935bae8e9bb5c26166972ec4c4cfd09[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri May 12 10:28:30 2023 +0200
+
+    mkdocs
+
+[33mcommit aac25f9cd2aa53c9fc9e2b0a1952ae6f8f3caeae[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri May 12 10:16:28 2023 +0200
+
+    modificadores de acceso
+
+[33mcommit 6938200b45e788ac0950226d900715209ffc0ea8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri May 12 10:07:46 2023 +0200
+
+    mkdocs
+
+[33mcommit 0f6208ca5f2485766a00b6494f557256e53b3014[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri May 12 09:59:46 2023 +0200
+
+    quitar ficheros que no existen
+
+[33mcommit fd30f8e36a3af1c9cb009c9f1e9e487dbb6ea0fc[m
+Merge: 7485aa5d 96983a8a
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri May 12 09:55:31 2023 +0200
+
+    Merge branch 'master' of https://github.com/runtimevic/OOP-IEC61131-3--Curso-Youtube
+
+[33mcommit 7485aa5d1a0519de5cd70277b5de3d446e44bcd1[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri May 12 09:55:29 2023 +0200
+
+    mkdocs
+
+[33mcommit 96983a8a903b90a2c74d4f52ee9dad62b2ebb248[m
+Author: Runtimevic <53791834+runtimevic@users.noreply.github.com>
+Date:   Fri May 12 09:29:30 2023 +0200
+
+    Update build-docs.yml
+
+[33mcommit 82fa886e2d54fcf590b75f11c309d77f7a038a6d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri May 12 08:43:31 2023 +0200
+
+    TDD
+
+[33mcommit 362b20c8e7322d6aa368e1a3ef0c5392f1711e44[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu May 11 17:35:56 2023 +0200
+
+    polimorfismo
+
+[33mcommit c0c48f6371a42e48fd326d578e1c8ed649371907[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu May 11 17:24:38 2023 +0200
+
+    polimorfismo
+
+[33mcommit 2aad93d852837357975705e63ad0d0c983ec0ab8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu May 11 08:57:57 2023 +0200
+
+    Librerias
+
+[33mcommit 66fde1e456cad2d1e3d7206313b23bfca0aa89e5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue May 9 11:58:23 2023 +0200
+
+    design patterns
+
+[33mcommit 5109be61f1e2faeff40f67c6ffca2f5be123ccde[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 8 12:01:55 2023 +0200
+
+    solid
+
+[33mcommit aeeda9e9b6c6b63349fd992e7dc4fb3469581fca[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 6 21:35:03 2023 +0200
+
+    DIP
+
+[33mcommit fc3ed1112bb9f1562ba7d948b266db747f3b8b35[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 6 21:02:46 2023 +0200
+
+    SOLID
+
+[33mcommit f67ab1738abb137499f9f518e6b358cc3003515f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 6 20:04:14 2023 +0200
+
+    SOLID
+
+[33mcommit 5e60b8c0fbcaa28879ca390e6dc490e83dc2bc79[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 6 13:49:51 2023 +0200
+
+    principios OOP
+
+[33mcommit a44cec540d2fc1c427f5f0e7a32e4e53c9be2690[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 6 13:36:03 2023 +0200
+
+    principios OOP
+
+[33mcommit 1b93ee0109a35ba3e542577a4b7c53a25c3ab030[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat May 6 12:40:08 2023 +0200
+
+    README
+
+[33mcommit 4cded23f2529d0d1334756bfad4f20581709ee87[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu May 4 14:28:50 2023 +0200
+
+    UML
+
+[33mcommit 6ddbc144bed06748119f0d686dead0e6afacf5f9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed May 3 16:58:52 2023 +0200
+
+    patrones de diseño
+
+[33mcommit cf835a249205e84b8add8a2cfbbe6a0799789fdc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue May 2 15:41:07 2023 +0200
+
+    solid
+
+[33mcommit 7471d0ba4a6b918d9b2176d9d0f02cdea1629a30[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue May 2 15:38:53 2023 +0200
+
+    solid
+
+[33mcommit 2b7c460bb818e13ca3acd021be939f477d225b4e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue May 2 15:31:48 2023 +0200
+
+    mkdocs.yml
+
+[33mcommit 9836095a90765ae0d348dfed5dd67909d059bf0b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue May 2 15:24:06 2023 +0200
+
+    add OOP & Design Patterns images
+
+[33mcommit e9842045e04b742a2ab3cf0f7e95aea2fb5b7962[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue May 2 11:19:16 2023 +0200
+
+    solid
+
+[33mcommit ce31f26650ebef0ab6b5323ede72bf200dc93916[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 1 21:49:30 2023 +0200
+
+    mkdocs.yml
+
+[33mcommit d351d4bee26feeb4bfe986df0617d67ef5d650a3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 1 21:48:57 2023 +0200
+
+    Design Patterns
+
+[33mcommit 95c65edae3e2a2c6e3053cf5447ac3df6484b4a5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 1 20:42:06 2023 +0200
+
+    design pattern
+
+[33mcommit f38201cf5cbf812a4c3964d2685d954ad78a6ba9[m[33m ([m[1;33mtag: 0.0.5[m[33m)[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon May 1 20:02:18 2023 +0200
+
+    add links videos
+
+[33mcommit 6c74eca65b4c6e01cd63b18b33c331ff50e02f95[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Apr 30 19:01:35 2023 +0200
+
+    conceptos previos
+
+[33mcommit 6de0bf8095bd920afc8e9208b9802fa2fb8f72fe[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Apr 30 13:07:42 2023 +0200
+
+    relaciones
+
+[33mcommit 46d112d85d794e8c3954e8379d7abd2dd1c53b0f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Apr 30 13:02:40 2023 +0200
+
+    interface fluida
+
+[33mcommit 687bee4ddc37fd8eb13ed8d79dc655f191d8294d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Apr 30 12:55:46 2023 +0200
+
+    interface fluida
+
+[33mcommit 88ae51bdf1eb1c6f7e0cd77056711a8c77b95128[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Apr 29 14:48:58 2023 +0200
+
+    solid
+
+[33mcommit 08ab4b21977eaf86330dd547d15f9e2db02beb23[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Apr 29 12:17:54 2023 +0200
+
+    readme
+
+[33mcommit 29995a717d1fa0b134eaea158bf04fbcfaaa0ece[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Apr 29 10:46:27 2023 +0200
+
+    Abstract
+
+[33mcommit 99594884025feaeeaee58690f193b43bc35718c6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Apr 24 11:59:28 2023 +0200
+
+    Abstract
+
+[33mcommit 0d62303df5ae8806569123253907c81cdee9b531[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Apr 24 11:56:07 2023 +0200
+
+    keyword Abstract
+
+[33mcommit 9e845f66dbaaef8428b12a5064113b7e78231eb9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Apr 24 11:37:27 2023 +0200
+
+    Abstract
+
+[33mcommit 9842ca2f2d2b25fb6d03fcc4c87646ad748fe268[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Apr 23 12:10:04 2023 +0200
+
+    Abstract vs Interface
+
+[33mcommit 05585ff83bd437381430129316a5cebd0b201359[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Apr 23 11:54:13 2023 +0200
+
+    abstract vs Interface
+
+[33mcommit 9f463b500d037e67086f6eaf752addc9208d04e8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Apr 23 11:49:02 2023 +0200
+
+    readme.md
+
+[33mcommit 6823a6f24979b2e6f676812e7f2ab78b5ff44f49[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Apr 23 11:43:24 2023 +0200
+
+    Abstract vs Interface
+
+[33mcommit 581925af6bdfc17ce975ae3ead040fdc61dd0b3b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Apr 22 21:19:30 2023 +0200
+
+    FB Abstract vs Interface
+
+[33mcommit 9ddfe2bf4f5772750e8ea9325e66ae6cba8783ba[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Apr 17 13:36:14 2023 +0200
+
+    SOLID principio de abierto cerrado.md
+
+[33mcommit c305c7e4f5d163eb94024debd48b99ab0568f9ee[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Apr 17 11:22:18 2023 +0200
+
+    project twincat pointer and reference
+
+[33mcommit 10fb2b49c1a03e85b9d0f410da43f3d4ed061644[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Apr 17 09:36:01 2023 +0200
+
+    pointer and reference.md
+
+[33mcommit 2980cc5ca50ab3b54e68d9ae704fc1bcade644c4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Apr 17 09:30:24 2023 +0200
+
+    pointer and reference.md
+
+[33mcommit cfd6613eeb16174f1f41100c114c2f33d71907c5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Apr 16 23:49:35 2023 +0200
+
+    readme
+
+[33mcommit 112e402c630a313f2c2ff9c74dfb8d1214102e77[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Apr 16 23:38:56 2023 +0200
+
+    italian
+
+[33mcommit 9fb1ce1954339d7efeea5d9d1b2fd5f01fd54ae9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Apr 16 23:25:04 2023 +0200
+
+    add language italian
+
+[33mcommit edafbb3fd752da3537d600baf7f404dbf7dcf83d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Apr 6 19:30:23 2023 +0200
+
+    readme
+
+[33mcommit f22fd921949b8181f43b3ef4d70da48d0331a974[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Apr 6 18:21:41 2023 +0200
+
+    interface
+
+[33mcommit 3e0de73e0016f3d7312c6c38f715517323e9cf2b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Apr 6 18:07:54 2023 +0200
+
+    interface
+
+[33mcommit 3fe02aa4fde5acf792a8f8e57308b5012f065e4d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Apr 6 17:51:31 2023 +0200
+
+    interface
+
+[33mcommit 52a4f7b96665853d7bbe879f6d95a6fba4987853[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Apr 1 15:16:28 2023 +0200
+
+    Youtube009_Punteros_THIS_y_SUPER.xml
+
+[33mcommit 73b275c817f58b0df80b8015afeee42b86cd55eb[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Apr 1 13:04:50 2023 +0200
+
+    patrones de diseño.md
+
+[33mcommit 99a8ca27543dc2c80c6e5fdf071e62228f6b8cd6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Apr 1 12:58:22 2023 +0200
+
+    interface
+
+[33mcommit d42bd9d257cf7d50fe6e5be01727c4c025ee6f38[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Apr 1 12:26:41 2023 +0200
+
+    readme.md
+
+[33mcommit 77d073f88be845831b85bb92d19244945326200e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Apr 1 11:27:14 2023 +0200
+
+    THIS y SUPER
+
+[33mcommit dc9c085e56bea9a3eb99d28455fe82e1b38ced32[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Apr 1 10:31:41 2023 +0200
+
+    THIS y SUPER TwinCAT
+
+[33mcommit e13bdbbd4266e0278429c206b841b32325976c25[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Mar 28 13:28:02 2023 +0200
+
+    SUPER
+
+[33mcommit d7c0312bb9d712110fe562039a70c4c91d41301d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Mar 28 11:58:22 2023 +0200
+
+    Class UML
+
+[33mcommit 44134b48137eb9ab8e4e55a07397f222ef01f0d6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Mar 28 11:54:00 2023 +0200
+
+    THIS&SUPER
+
+[33mcommit 119e21152b615acd6c716ae3c9c4cc668afd07d0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Mar 26 16:23:50 2023 +0200
+
+    Herencia Estructura
+
+[33mcommit 10f585cb463d9d8254ee4d9c1a64d1e1c19ca58f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Mar 26 15:41:23 2023 +0200
+
+    Herencia para la Estructura
+
+[33mcommit 5f8175e7fe22438a0bb1ecb28c5bb650f73c2184[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Mar 26 15:26:17 2023 +0200
+
+    Herencia Estructura e Interface
+
+[33mcommit 27da13133a2298ce06ee7a9954107de96b21cc63[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Mar 26 14:22:14 2023 +0200
+
+    extension Interface
+
+[33mcommit c5301ba4c85ccc9e8ade845a1ad76589b3d90df3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Mar 26 14:14:02 2023 +0200
+
+    Herencia Estructura y Interface
+
+[33mcommit da115d2efb9d58aa1e61375d0b39ae3e71f574d9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Mar 20 15:46:22 2023 +0100
+
+    Herencia
+
+[33mcommit b6f5afe3ffb22333f89d5ccaf1e7b25e450f7eb5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Mar 20 15:44:46 2023 +0100
+
+    Inheritance
+
+[33mcommit 25d514686ada708058fddc91ac94550a3c7e60f5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Mar 20 15:31:01 2023 +0100
+
+    Herencia
+
+[33mcommit 7d87509ee3aa2d32e9cdd0f37f2dde56b2dcc8a6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Mar 20 15:17:49 2023 +0100
+
+    Herencia
+
+[33mcommit 51faa41e10fc606ae989cf9ac88916a2df3af244[m[33m ([m[1;33mtag: 0.0.4[m[33m)[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 23:50:37 2023 +0100
+
+    mkdocs
+
+[33mcommit d0dd74dd6dbc9fa50ec8059ec831df00b8a3bf0b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 23:41:10 2023 +0100
+
+    mkdocs
+
+[33mcommit d791317a26c03c5445a7fbb29ff96816044a1b8d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 23:32:58 2023 +0100
+
+    mkdocs
+
+[33mcommit 6f1540d246b741a30bf99dfe6c08fc2bc014e391[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 23:06:32 2023 +0100
+
+    mkdocs
+
+[33mcommit d46a6980fe8522023ff8bfecbf88eecfaf4ded9c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 23:04:00 2023 +0100
+
+    mkdocs
+
+[33mcommit f946bbd54ff9f186e0168ba6a0c4906e47e5e7cb[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 22:59:48 2023 +0100
+
+    mkdocs
+
+[33mcommit cf6f822831cc3086bfc95a7d228f2edd0903f0c1[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 22:42:13 2023 +0100
+
+    mkdocs
+
+[33mcommit 970f40fdda674ea718ef69d556fbb494b6f6ce06[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 22:35:09 2023 +0100
+
+    links
+
+[33mcommit b34498c35064a413e367e53560f42660ebe33dbf[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 22:19:39 2023 +0100
+
+    links
+
+[33mcommit 3cbbd1d287e90b583b3e38a74ed142ae992c70fa[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 22:00:12 2023 +0100
+
+    mkdocs
+
+[33mcommit 909814037668c79c6404098a436c2f8e224cb0df[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 21:55:56 2023 +0100
+
+    mkdocs
+
+[33mcommit 2267a30532703ee8b8fbe2fae5252cec0e090fb6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 21:51:27 2023 +0100
+
+    mkdocs
+
+[33mcommit 4c2dd8b0b69bd701a902b8862167804e1e26ccb7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 21:38:11 2023 +0100
+
+    mkdocs
+
+[33mcommit a5df85b1eeb4ad447b62695f6cebe975a3c32502[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 21:26:50 2023 +0100
+
+    mkdocs
+
+[33mcommit 6014d3af3f273052278fa44e5f7f6234465fa73e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 21:21:43 2023 +0100
+
+    mkdocs
+
+[33mcommit 40e2acc82e7c7388dbcbff6a0a8ab411aa778d38[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 21:05:57 2023 +0100
+
+    links
+
+[33mcommit 3ab99e5dc950ca8c9a49280d9dc63de58717a3c1[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 20:49:21 2023 +0100
+
+    acceso directo
+
+[33mcommit 17a6a9a3db8fdd2c395c19a42bda00a927ac3252[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 20:41:01 2023 +0100
+
+    Interface
+
+[33mcommit da0ff5e545ba22865e7685554d3b55315d06e42d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 20:36:31 2023 +0100
+
+    THIS^&SUPER^
+
+[33mcommit 8c7b76671e31caa96369e310d4830c3ee389bd86[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 18 11:51:19 2023 +0100
+
+    Herencia
+
+[33mcommit b07675cd9f2eaf77c8c5af06247d00f7ef1ca9d1[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Mar 14 13:09:53 2023 +0100
+
+    herencia
+
+[33mcommit 579cc8b836704d653f732b081c45119a8c705217[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Mar 14 12:59:52 2023 +0100
+
+    herencia
+
+[33mcommit 1f6fe2661c4df86696ebad1aa5875f6174a6ca1f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Mar 14 12:59:03 2023 +0100
+
+    herencia
+
+[33mcommit 2265ea365de55ec3de34e29daeee16895b6c7bda[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Mar 14 12:55:05 2023 +0100
+
+    herencia
+
+[33mcommit 66d05b561b5a3e851355bdde94922b0b9abaeddd[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Mar 14 12:48:56 2023 +0100
+
+    herencia
+
+[33mcommit 9d1b6f7e4b5f026d1e101e34ceb3476b7a9e4727[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 11 14:33:10 2023 +0100
+
+    tipos de datos
+
+[33mcommit d5905c246d6512d2c6016c91cb42e0f74ed78a67[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 11 12:59:46 2023 +0100
+
+    readme.md
+
+[33mcommit 74e418eb733cca96f52b59d70ead485f0fbea1f3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Mar 11 12:46:39 2023 +0100
+
+    propiedad
+
+[33mcommit d97964b112dc1d651f66a629c008b91b2f171b75[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Mar 10 10:05:43 2023 +0100
+
+    herencia
+
+[33mcommit 265a650368561a9bfbff2f8274168c3ed3791688[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Mar 10 09:39:26 2023 +0100
+
+    solid
+
+[33mcommit b825246abe39bbc5429e6a764f1469cfe1828e49[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Mar 10 08:48:56 2023 +0100
+
+    solid
+
+[33mcommit 9a6061fdc484b4aa72f5fee27ecdc59b9e7e4c92[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Mar 9 14:33:21 2023 +0100
+
+    Herencia TC3
+
+[33mcommit 9200bb02e17e1975a4eb049856196ffc47e3a845[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Mar 5 21:24:25 2023 +0100
+
+    links
+
+[33mcommit 42012ad68d678aebf95414f571e349c20f5224db[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Mar 5 21:14:55 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit bd15c725434ff05dc0f48df51b4fa99883509d12[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Mar 5 21:11:01 2023 +0100
+
+    propiedad
+
+[33mcommit 7e4e24bb6f5f8c39c20bd42131cad8b2917564bf[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Mar 5 20:25:39 2023 +0100
+
+    propiedad
+
+[33mcommit 96203d235e0dfc20044885309caa6f905562dff7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Mar 1 11:41:40 2023 +0100
+
+    modificaciones
+
+[33mcommit afb38f47749b64bbc69c67f10ee42b334c83bbad[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 25 20:26:16 2023 +0100
+
+    metodo.md
+
+[33mcommit 0cfc09e72d0d7635b82203ce2b23f82227215bb0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 25 14:15:41 2023 +0100
+
+    readme.md
+
+[33mcommit c4faeb5c0e8d865a28279286783442628c4600a0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 25 13:22:01 2023 +0100
+
+    readme.md
+
+[33mcommit 562b7c6b634c570ad87fef8d37d1b91930cded86[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 25 13:06:16 2023 +0100
+
+    metodo
+
+[33mcommit 5cf1bfdc595903f3be764d547ebbbcfd9849f191[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 25 12:54:50 2023 +0100
+
+    metodo
+
+[33mcommit d7f7e20af9582c87c66037b7e8ee2f25d91e0515[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 25 12:54:14 2023 +0100
+
+    metodo
+
+[33mcommit 3f4b2afe9658cf58ce5892fa246ff0298a1f6d9d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 25 12:43:34 2023 +0100
+
+    metodo
+
+[33mcommit db00334c8aa263aa3f7a6c4db4d4bf502dd06e47[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 25 12:26:07 2023 +0100
+
+    metodo
+
+[33mcommit 3e454be75aab00bee72f9b92d50bb747194a7a31[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Feb 22 08:13:37 2023 +0100
+
+    polimorfismo.md
+
+[33mcommit a354f9e1650a8198b36c22b0160c4cb3c9ee155b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Feb 20 15:29:12 2023 +0100
+
+    varias modificaciones
+
+[33mcommit 01450c223d86d83b92b88abf0f0d4ed6a7dc013c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 18 13:30:56 2023 +0100
+
+    metodo
+
+[33mcommit b9ef08b63955af82576ac72c6d5269efe85a1476[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 18 13:14:01 2023 +0100
+
+    metodo
+
+[33mcommit af25c259e76449f278a200779eb959ba6fd55264[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 18 11:52:45 2023 +0100
+
+    helpme
+
+[33mcommit 9f75fa0d122d85765bbbf6145934b1a4017a1349[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 18 11:38:57 2023 +0100
+
+    function Block.md
+
+[33mcommit 9548970f41dd0ae41ebb4a250e0acebeca7ebfb0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 18 11:36:41 2023 +0100
+
+    ayuda
+
+[33mcommit dc27b50370220e43f619054d16a2b02ea1b9c3b2[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 18 11:28:27 2023 +0100
+
+    readme.md
+
+[33mcommit 253ba034382227bf0f0ac5689dc07b8934cc7af6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 18 11:16:17 2023 +0100
+
+    Yotutube video 4
+
+[33mcommit 19583c8eef53940617119623173d2792f60c76d0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Feb 14 11:34:14 2023 +0100
+
+    tabla de modificadores de acceso.md
+
+[33mcommit 462f8af35814c442fb665ab41d195da836595032[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Feb 13 11:25:15 2023 +0100
+
+    readme.md
+
+[33mcommit f494d1c3ffe48ed8e32605a02a910d028d69372e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Feb 13 11:17:53 2023 +0100
+
+    readme.md
+
+[33mcommit 1a834120dca7121de4c37bc0397d7b97ad142a8a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 12 15:20:30 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 7de495cfb41253536c0668eb1f4079e54df39b8e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 12 15:08:10 2023 +0100
+
+    modificaciones.md
+
+[33mcommit fec2394d0276b86344178f8a1849d59bbf5961a0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 12 14:37:48 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 7d929371ceaa3c5a983b3ca55f91480895a35866[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 12 14:32:09 2023 +0100
+
+    variables.md
+
+[33mcommit 4f43d7aeb161f8e3eceadd45234c7096d6e13c0a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 20:48:53 2023 +0100
+
+    cambios.md
+
+[33mcommit 45f6b1ce248ba374eedadc152752d572294a4f8e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 20:10:48 2023 +0100
+
+    tipos de datos.md
+
+[33mcommit ab00d1db0dc4553343238dab31b45bc6e0acf739[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 19:44:11 2023 +0100
+
+    metodo.md
+
+[33mcommit f7f5208f388c449e9ba2708df3bea0b8ed2ba83f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 19:36:15 2023 +0100
+
+    function block.md
+
+[33mcommit 020e3e07459e9d268a1de95dbebe2678abf1746b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 19:25:25 2023 +0100
+
+    Function Block.md
+
+[33mcommit 23861e63531854702c3e74be01a8849bc3066f1c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 19:15:33 2023 +0100
+
+    varias modificaciones.md
+
+[33mcommit cfb17decd70e6e160e71ca8a7d681fb9caf44a44[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 14:54:30 2023 +0100
+
+    Function Block.md
+
+[33mcommit 0b39e0e6735ce0bde83f7219ef28e40afc2a38f5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 14:41:27 2023 +0100
+
+    function block.md
+
+[33mcommit d81682a1c316687c659c51ae1054c652bea62b95[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 14:25:30 2023 +0100
+
+    interfaz fluida.md
+
+[33mcommit 92fc44bf78884b7c40b9bbb3e87f82b6a4365acb[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 13:53:08 2023 +0100
+
+    metodo.md
+
+[33mcommit a45e9a4be13d26b0e059a7d3b44148f75ce44b6a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 13:47:02 2023 +0100
+
+    Function Block.md
+
+[33mcommit 0e6bf1c1ed71310c80ca389f3e63e425a9068049[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 13:40:21 2023 +0100
+
+    modificadores de acceso.md
+
+[33mcommit 61b85b192b04f8c6b9c610dc04b495b2978f7ada[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 13:30:06 2023 +0100
+
+    modificaciones varias
+
+[33mcommit 3d0137ee810f23a6264170d1922a797c3a958d59[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 12:06:28 2023 +0100
+
+    readme.md
+
+[33mcommit 0089f5f4e7c5eb7bf65b57f8038f09505e1305ec[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 12:04:25 2023 +0100
+
+    readme.md
+
+[33mcommit d4c36ce4e052c00f93cbf4f7747e5731e70a6d2b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 12:03:36 2023 +0100
+
+    readme.md
+
+[33mcommit 090f4b94194a4dcd04ca816c2cfadc4691c1de54[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 11:53:59 2023 +0100
+
+    readme.md
+
+[33mcommit c18ac73c405284edd83040e76924566b2b6e99f0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 11:49:39 2023 +0100
+
+    interfaz fluida.md
+
+[33mcommit d0f6e870862ddabfeac9bffdba18a72b722b09d6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 11 11:33:10 2023 +0100
+
+    readme.md
+
+[33mcommit 6d723da4d9c1f0f07efe7702caeeb4e5a7458b94[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Feb 10 08:46:49 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 38afc182facce18a638721c851c1c243c5001493[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Feb 10 08:40:52 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 386b6003077e8348b0fb92606dd483196822df90[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Feb 10 08:36:59 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 0e5fb67cd0d65857a0338f74397cf39b01e3d291[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Feb 10 08:26:56 2023 +0100
+
+    mkdos.yml
+
+[33mcommit 294db41397ae5d6b40aeae8dc045f8236b43944d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 17:06:54 2023 +0100
+
+    pdf
+
+[33mcommit e8bb61c75f1986a2bf0ff8b352044ff78f7748d3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 16:59:43 2023 +0100
+
+    readme.md
+
+[33mcommit 6b1bf0a9d7f1f7447bda85329d70a1d791323b7d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 16:50:36 2023 +0100
+
+    pdf document
+
+[33mcommit e024b42379d5b59163783431d1c99b86e825ca8b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 16:44:48 2023 +0100
+
+    pdf
+
+[33mcommit aea13396d2e2402ad4a32b0dd91d5df7684abb88[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 16:14:26 2023 +0100
+
+    pdf
+
+[33mcommit 445ee14213c3d22b6114910240511e9a1eeeef77[m[33m ([m[1;33mtag: 0.0.3[m[33m)[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 15:40:23 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 29160434e32f460da50505df538ae357f8a4c172[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 15:36:27 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 6dc909e0b812e2408892a38763c9b030b668953f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 12:43:19 2023 +0100
+
+    generar pdf
+
+[33mcommit 2d1e70906e1eeda82431b98636262828631821bc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 12:23:40 2023 +0100
+
+    borrados ficheros main
+
+[33mcommit 7f535d6e6ab4d881308f4312e0dabe6ac526695f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 12:04:28 2023 +0100
+
+    main.html
+
+[33mcommit c72561dcfe9a2740f3cd31c631e6fe586e45739e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 12:00:29 2023 +0100
+
+    main.html
+
+[33mcommit 6cb0b6cc32b6a61b32c8bde5ddeb278bfbccce40[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 10:45:02 2023 +0100
+
+    main.html
+
+[33mcommit 9a5f95a49c9231dfaf98afb0214ab713a1d8529b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 10:24:46 2023 +0100
+
+    comments.html
+
+[33mcommit dd9a8d75288847b21f46187d8f4134f443f11003[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 10:16:12 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 2bda598c40211bd7ef54846c28add48ead692f93[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 09:59:33 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 0efabc201c342e2ac09978ed5333992e0bd8e44e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 09:56:35 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 1a52fb71ae46aa0ebe1ed0362066aaf20c32bd7a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 09:42:36 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit b1715659eec25d79a0c3d860bf82d34bfdd93e52[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 09:40:36 2023 +0100
+
+    UML.md
+
+[33mcommit 76486c8381b0f8a7974514a95d6f75885fabc723[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 09:29:01 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit e074494e8012178bfbc2934d9b6411e5192f8c13[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 09:25:25 2023 +0100
+
+    requisitos.md
+
+[33mcommit 2e4d274cc77e7e55bcc71b619363e21ca7e7a9f9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 09:18:31 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 6373f4df1fe257b2f1f3795b8958d52644534222[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 09:08:05 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 1e09def253449511a68c2873cc97c61bd9c84b7d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 08:39:08 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 4aa47ee452ef495eb64887136838b043b478a18c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 08:26:48 2023 +0100
+
+    imagenes
+
+[33mcommit dfa1eaf20c6efc530773b99fd8ece2c895167699[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Feb 9 08:18:42 2023 +0100
+
+    images
+
+[33mcommit 422eeb9196d7f9683d644b4622359b6b5832b42e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Feb 8 17:06:14 2023 +0100
+
+    imagenes
+
+[33mcommit bc90b6f2e6a13d178c11bf71127903a2f5388fc4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Feb 8 17:00:06 2023 +0100
+
+    tipos de datos.md
+
+[33mcommit be0b8a83797a65aad3dd3d4614da970d75be6cb5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Feb 8 16:19:21 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 6e2f6f685e78366bd7df18d67430408e6ce27cc1[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Feb 7 16:41:24 2023 +0100
+
+    FB_Init
+
+[33mcommit 4057303cc296b0615fa22ffeb841eba5bf185152[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Feb 7 16:36:35 2023 +0100
+
+    Constructor y Destructor.md
+
+[33mcommit a3eabf858babd9280e913dfbee145812e6d0f5f6[m[33m ([m[1;33mtag: 0.0.2[m[33m)[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 22:57:38 2023 +0100
+
+    requisitos.md
+
+[33mcommit fb84bc82af779d1e06ee31b384bfafa71492a763[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 22:53:48 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 56631be761418fe0a83571daa5de9bfac47bf928[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 22:52:22 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 597f77b4deb79875015b6fee9eeecbbe1d221466[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 22:50:14 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit c72cf04b9b6f3f095335db7685a2a0d41929c843[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 22:42:39 2023 +0100
+
+    main.yml
+
+[33mcommit 1bb7291e7c161985b0be6cdb75f2647ceadbe454[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 22:40:24 2023 +0100
+
+    language
+
+[33mcommit d6fa32c32a3196ae2ad2e392f833e33481182f92[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 21:58:34 2023 +0100
+
+    language
+
+[33mcommit a8bba3fec5e35a41ae35ee620dcff188d9a7482c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 21:21:50 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 588d3e59e4707a850a8dd5a5db63b429648c98ce[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 21:15:25 2023 +0100
+
+    requisitos.md
+
+[33mcommit 0b1b294c148eff0d4b1c95d4beb348e73133e94d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 21:12:47 2023 +0100
+
+    añadido cambio de idioma
+
+[33mcommit d52947e87e9f04da8b3441f6ca096b592c9f2df6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 14:58:21 2023 +0100
+
+    constructor y destructor.md
+
+[33mcommit 385d278d1bfe1eddfbeec0663e6dc8e159e018fc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 14:45:57 2023 +0100
+
+    constructor y destructor.md
+
+[33mcommit e695d3196510c82730f29259c3ed2685e2ade329[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 14:21:15 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 63888b0ceaf607807da8532266f98feaadfddc7f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 14:19:35 2023 +0100
+
+    mkdocs.md
+
+[33mcommit 9590034f03db950a46f8d6a1e30bd95a077e7fd6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Feb 5 14:11:22 2023 +0100
+
+    Function Block.md
+
+[33mcommit 303849bab3f0740efc5d8c8ef3f03d948d65435f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 15:00:57 2023 +0100
+
+    variables.md
+
+[33mcommit defc16f30d7ad4ed4c1638c9a089f5675cbb61b7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 14:49:35 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 7f6fdfea7d33a0fc198f81c11594b74f0d4b87ae[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 14:48:29 2023 +0100
+
+    variables.md
+
+[33mcommit 3872bc668cd6bdf86a4394bad261447acac8709f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 14:35:24 2023 +0100
+
+    herencia.md
+
+[33mcommit 911599e2c773395f6cc40dea6866d7d60521f8b2[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 14:18:52 2023 +0100
+
+    variables.md
+
+[33mcommit 4b6a07984e70b6961925ce1fe2c45f43da3167a3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 13:59:57 2023 +0100
+
+    propiedad.md
+
+[33mcommit 12971235d9361b4e110a24b70cf6b23cee7a4d86[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 13:58:13 2023 +0100
+
+    propiedad.md
+
+[33mcommit 8eda6d573558c29e5f5d571e5d82b1225662e2b0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 13:53:05 2023 +0100
+
+    tipos de paradigmas.md
+
+[33mcommit c9e404d5017e8a461bdd38b07cc57fcd473a5295[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 13:50:25 2023 +0100
+
+    tipos de paradigmas.md
+
+[33mcommit b5bad83b888041fac225d0b47abd002ccb565a41[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 13:48:24 2023 +0100
+
+    tipos de paradigmas.md
+
+[33mcommit ad962bb223a19feb2aa3ddd73f6673b002f3d919[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 13:44:04 2023 +0100
+
+    SUPER y THIS punteros.md
+
+[33mcommit b42255018533100290563af4dc39a7dca2f1b490[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 13:20:32 2023 +0100
+
+    tipos de paradigmas.md
+
+[33mcommit d126a6667906cea8250b1d91ab4f2af04b5edbbf[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 12:58:53 2023 +0100
+
+    tipos de paradigma.md
+
+[33mcommit 23971610386c48a0eaa3fa1eff9d7166af65ade8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 12:48:56 2023 +0100
+
+    tipos de paradigmas.md
+
+[33mcommit 41e13e4fcd368e60d791096de6f3f2794b46ea4b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 12:38:23 2023 +0100
+
+    tipos de paradigmas.md
+
+[33mcommit 596e774cefef033350a8ab5f3827a2a86914d59b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 12:34:03 2023 +0100
+
+    oop
+
+[33mcommit 74deeef50e09687c6c1163a85bdec402e7c0db59[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Feb 4 12:31:06 2023 +0100
+
+    readme.md
+
+[33mcommit d47104c59961e6d52df8a2fd963117c247354fb7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Feb 3 21:18:24 2023 +0100
+
+    readme.md
+
+[33mcommit ecca4e1ab511525144a0bd5e548cd6561fc4269a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Feb 3 21:16:29 2023 +0100
+
+    readme.md
+
+[33mcommit 762ff4cef9aca9fc4637b56c49b32f67cb1fd5dd[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Feb 3 21:13:00 2023 +0100
+
+    readme.md
+
+[33mcommit 3085b2f62a93fd09aa1307e39b1d3197ac501929[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Feb 3 20:42:01 2023 +0100
+
+    main plc
+
+[33mcommit 41dfa7a6a37cf6eb952dca1d63000f75d6c785b9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Feb 3 19:57:36 2023 +0100
+
+    añadido fichero plcopenxml
+
+[33mcommit 084683b6cde325cb70ba03859364e744c8579f76[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Feb 3 19:55:42 2023 +0100
+
+    tipos de paradigmas.md
+
+[33mcommit b899f8186d66bc1b2d7c5e7ac060f9205274bd8a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Feb 3 19:46:42 2023 +0100
+
+    tipos de paradigmas.md
+
+[33mcommit ee8294340a288c7de2fdfcf53f0efef6f2a13a70[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Feb 1 13:01:41 2023 +0100
+
+    modificadores de accesso.md
+
+[33mcommit d6837e0fbdb815837b759340ba6f79dbd64ab82f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Feb 1 12:53:05 2023 +0100
+
+    variables
+
+[33mcommit fb83a50a823d31578f4d1442c0f1ebd6e4e19808[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Feb 1 12:51:16 2023 +0100
+
+    variables
+
+[33mcommit b295b188c45ae9e6f83d60f70b21be43d5abe546[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Feb 1 12:45:02 2023 +0100
+
+    variables.md
+
+[33mcommit 5ca9cd20f84e7c16bc7d1d93ba9b290579c58b64[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Feb 1 12:37:29 2023 +0100
+
+    variables.md
+
+[33mcommit 102571bd4a42aa225b891d7b7a05a7a4942f0114[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Feb 1 12:35:14 2023 +0100
+
+    variables types and special varaibles.md
+
+[33mcommit 3ea81e1050711b7596c2ea35e9eb4c85c3ab3d97[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Feb 1 10:10:24 2023 +0100
+
+    clases y objetos.md
+
+[33mcommit 14a79d256ebd4b6b3db717a6330cc68af2126e4c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 31 16:01:24 2023 +0100
+
+    page3.md
+
+[33mcommit acf761cc962a366dcce6f7480b594b5a4b7feae7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 31 15:26:39 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 0b404ba3655e9a1c18cd53d879c179b3d0cda0d3[m[33m ([m[1;33mtag: 0.0.1[m[33m)[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 31 15:11:56 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 4c6b7e4ae7be02e1616afee3b757d2c4366d73b0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 31 15:07:51 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 40b1d5bf6559e040125ab5ceba052eb0ec1d780b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 31 12:39:49 2023 +0100
+
+    propiedad.md
+
+[33mcommit 6bd8bf3df542c71f744f2a165d0997427496c538[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 31 12:05:20 2023 +0100
+
+    clases y objetos
+
+[33mcommit ed7444cd82ac09cfd97e1f2379b7ce0f971238d7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 31 12:01:12 2023 +0100
+
+    modificaciones.md
+
+[33mcommit 45b82c2513267f5fab3d3852b91c5d5fffadd720[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 31 10:44:02 2023 +0100
+
+    UML.md
+
+[33mcommit df54c25d88f9c39fc29186d21c22dc04bc776c57[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 31 10:40:50 2023 +0100
+
+    UML.md
+
+[33mcommit 274cf44cde751d8f8000fc3e03e8114af422f75f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 20:57:32 2023 +0100
+
+    readme.md
+
+[33mcommit 88653783cdc8ee674ca21f0938cc23c0a70f444b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 20:52:33 2023 +0100
+
+    readme.md
+
+[33mcommit cdbc13597f16c2591097c087e84c43a0a9972c37[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 20:47:30 2023 +0100
+
+    readme.md
+
+[33mcommit 4c1f903b682096ff1c46fceb984a679b87a1d381[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 20:44:52 2023 +0100
+
+    readme.md
+
+[33mcommit d014e23dac7ec0cf3a85242fd8cb1c4d33beb52d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 20:38:00 2023 +0100
+
+    readme.md
+
+[33mcommit 5ede34f8a1041e56a6c58d8fcdae073234ad501d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 20:35:23 2023 +0100
+
+    readme.md
+
+[33mcommit 18b428e08fa19f4949ca7a6b9891a9d9c2e60223[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 20:33:37 2023 +0100
+
+    readme.md
+
+[33mcommit f5d37442de6fdd1ceb1e487b999affb41efa5d88[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 20:32:52 2023 +0100
+
+    readme.md
+
+[33mcommit 6051167dd63338fc45c2eea21af9d1b4fdffe22e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 20:02:45 2023 +0100
+
+    main.yml
+
+[33mcommit 9485839968d68d99a06f22036fded08f8d25efe9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 19:30:01 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 4ed92983a73089b6222a047f6406dabdd9df127a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 18:55:38 2023 +0100
+
+    mermaid UML
+
+[33mcommit 4f9cbb49fc106828cd6f45beaba9b8ab58743da7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 18:50:43 2023 +0100
+
+    mermaid
+
+[33mcommit 698178fe800255b8c4066c028050525ab7a9a57c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sun Jan 29 18:39:40 2023 +0100
+
+    page3.md
+
+[33mcommit ebd19adecc496e87b413417b7c1a6ad919af9d78[m
+Author: Runtimevic <53791834+runtimevic@users.noreply.github.com>
+Date:   Sun Jan 29 00:19:35 2023 +0100
+
+    Update and rename Documentation/docs/page4.md to Documentación/documentos/page4.md
+
+[33mcommit 1f48c6fd6a93ae1b67f1f7e33a6c04fa38217e20[m
+Author: Runtimevic <53791834+runtimevic@users.noreply.github.com>
+Date:   Sat Jan 28 22:35:27 2023 +0100
+
+    Update and rename Documentation/docs/page3.md to Documentación/documentos/page3.md
+
+[33mcommit 65b3e647163ca4e987282d1ad0efeb24217970b3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 27 21:06:06 2023 +0100
+
+    readme.md
+
+[33mcommit df2ac99e3a501d6d39c38018326055f0a44c6f67[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 27 12:03:36 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 7b59f6889308fc8e7bc6e0e49b39b718faa3ab29[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 27 10:58:16 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit cc655ff94011236f6d90939a3faeb51b4acf37e7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jan 26 15:24:52 2023 +0100
+
+    patrones de diseño.md
+
+[33mcommit 4c49819156f062488da7c796ee4d01a6ba27da2e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jan 26 15:15:33 2023 +0100
+
+    patrones de diseño.md
+
+[33mcommit e099a6a66867b11b9f6876ec1b8feb19e56d1faa[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jan 26 13:53:05 2023 +0100
+
+    interface.md
+
+[33mcommit 620c3fb191ba4b01df4f4ffb4d59b374802200b8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jan 26 13:49:58 2023 +0100
+
+    interface.md
+
+[33mcommit 9380191c292c0db5e5e5c5238156a702dbcb5f6c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jan 26 13:49:11 2023 +0100
+
+    interface
+
+[33mcommit 729bef36d7db0a6e8fa07d819a05ad8517c2ff61[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jan 26 13:46:43 2023 +0100
+
+    interface.md
+
+[33mcommit 2adfd4f6178b11514bab5307f9a2e0a55603ea55[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Thu Jan 26 13:36:07 2023 +0100
+
+    interface.md
+
+[33mcommit f8c2434daea6d62b9350e3893ac6ff2ac6a80584[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 17:40:57 2023 +0100
+
+    statechart.md
+
+[33mcommit 3aa32e127a939eb69d2dd04de6d0f5bdcfe0be6e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 17:36:08 2023 +0100
+
+    statechart UML.md
+
+[33mcommit 9859464b7b430ad73301985e2c1b453ee50bc6a0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 17:30:28 2023 +0100
+
+    patrones de diseño.md
+
+[33mcommit d840e988cf2bc16f916fbef769700f290546bcb3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 17:23:26 2023 +0100
+
+    modificadores de acceso.md
+
+[33mcommit c4e0a402c3a8f90bcdb306d97a91f49f533fff19[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 16:39:15 2023 +0100
+
+    metodo.md
+
+[33mcommit 3239d03966584bbcde1438998c42f5888d290387[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 15:52:31 2023 +0100
+
+    propiedad
+
+[33mcommit bda39c7e2b9e19431e71872ee1b517f1451188a9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 15:45:20 2023 +0100
+
+    uml
+
+[33mcommit 848d81b5632ca9c09cd166cf6cdc81f70685aa09[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 15:34:00 2023 +0100
+
+    index.md
+
+[33mcommit a82414e85bd1f0712f80c33900642337d355d0cc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 15:01:09 2023 +0100
+
+    propiedades.md
+
+[33mcommit bb47987255b125c7249ef8e8bfeab77c547f3ffa[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 14:58:52 2023 +0100
+
+    interface.md
+
+[33mcommit 28c663278fdb073217c73588e41363c62064c122[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 14:55:25 2023 +0100
+
+    propiedad.md
+
+[33mcommit ca8b7efb18f19dbbc301c0edfa29d3b58274fa78[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 14:16:56 2023 +0100
+
+    propiedades
+
+[33mcommit fdb3f3d57eefb7ca1ca7a57396259e28088754a3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 14:10:41 2023 +0100
+
+    variables.md
+
+[33mcommit 6c355f2ebd0bff8b3ae2dd356ef1ed46229c5d78[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 14:01:02 2023 +0100
+
+    changes.md
+
+[33mcommit 1d920192653d32b40263288abe129c16d9114094[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 13:58:57 2023 +0100
+
+    metodos.md
+
+[33mcommit 3b8d40768ef78e8dee866fa33af2ec05990d96a4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 10:05:30 2023 +0100
+
+    requisitos.md
+
+[33mcommit e9b132f28b3704b4a70b443fd9f23d6a8ca39922[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 09:48:03 2023 +0100
+
+    requisitos
+
+[33mcommit c6d45a6cac63f895b3a095ef4dabeb06abd9e938[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 09:03:04 2023 +0100
+
+    requisitos.md
+
+[33mcommit 97bf8b9ad15cb72998bcb657e344b4b90b885168[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 25 08:52:32 2023 +0100
+
+    requisitos
+
+[33mcommit 94a30f586554f3a2f3c52020b286c2f89bdd0b1a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 23 23:34:38 2023 +0100
+
+    requisitos
+
+[33mcommit 4cce7d4252a35d3f208f687a40a05cbfafbc0227[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 23 22:46:14 2023 +0100
+
+    commit
+
+[33mcommit 1c6596b2839beabe9a6a8556991d8fe096bcd32b[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 23 21:53:49 2023 +0100
+
+    index.md
+
+[33mcommit 7319be41fecf008df48561ae9d3b193793b687b9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 23 20:51:15 2023 +0100
+
+    clases y objetos
+
+[33mcommit 9145476b4b71ff3500cc10028ebd61a4f8cb1101[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 23 20:48:14 2023 +0100
+
+    clases y objetos
+
+[33mcommit e4ce8c944c888fce1cf8a60f0aaca3d7ac80f33c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 23 20:36:31 2023 +0100
+
+    requisitos
+
+[33mcommit 2d56cfc2036e8edf651d327badf8daae2b3f5762[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 23 20:34:22 2023 +0100
+
+    requisitos
+
+[33mcommit 63b3852e514b2f73b37842e85b7c9b3568e99a27[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 23 20:27:58 2023 +0100
+
+    requisitos
+
+[33mcommit 5581963a02038dce2c16ea07551a97455a10389e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 23 20:07:45 2023 +0100
+
+    Update OO_Logo.jpg
+
+[33mcommit dddc0782cf8771902b84be4fe71609431243a424[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Mon Jan 23 19:50:49 2023 +0100
+
+    oop.png
+
+[33mcommit 3569afa0d38d542b0abe51a6f695d64f2e282118[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 20:58:34 2023 +0100
+
+    index.md
+
+[33mcommit 9e1f1a1136f6c879a8252e1b38c1c6deedffa617[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 20:49:29 2023 +0100
+
+    Clases y Objetos
+
+[33mcommit 2b285a20b3af0baeecae4b9042f5b1471273cf71[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 20:35:32 2023 +0100
+
+    iecst
+
+[33mcommit 20037b5a483c078aa379783fce7091ef7c743298[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 20:31:38 2023 +0100
+
+    ejemplo Clase Coche
+
+[33mcommit c6acccc2ae75a29d5442234a9a3354a70988a2c9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 19:16:23 2023 +0100
+
+    tipos de paradigmas
+
+[33mcommit c23648a2b01dee019782d27b68f9432b6ad3b429[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 12:41:45 2023 +0100
+
+    UML
+
+[33mcommit b301b3a5e31ac93f519b88eb815243d7508bfbfc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 12:41:01 2023 +0100
+
+    Clase Coche
+
+[33mcommit 9ce53d9ea3e7979a855c0992e653b600ed4f5bae[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 12:26:20 2023 +0100
+
+    coches
+
+[33mcommit bc5d7089622eecbc51794823fa008a76120f8dd8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 12:22:58 2023 +0100
+
+    clases y objetos
+
+[33mcommit f003a1317b53a33f354f76ce575d0b9fc5d77a28[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 12:18:13 2023 +0100
+
+    index
+
+[33mcommit 55824299bad823d01664dbfc67994dd6646a5593[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 12:09:26 2023 +0100
+
+    create project
+
+[33mcommit d3a7c18c0a3846f5d86ab88af921600c6f67d3c3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 12:07:11 2023 +0100
+
+    gitignore
+
+[33mcommit 23d9600c85c9a957025d30c74c690fb1196c9bce[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 12:03:43 2023 +0100
+
+    links
+
+[33mcommit 0d3fd664f3b1c4b14818f179244b519a94cfb307[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 11:56:19 2023 +0100
+
+    imagenes
+
+[33mcommit bc08a43e40c0f27ca7b3d65acbe1410c143f5f2f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 11:52:26 2023 +0100
+
+    mkdocs
+
+[33mcommit dfe380ee6dd96ee82215d89e47fe60519564fecd[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 11:46:26 2023 +0100
+
+    solid
+
+[33mcommit 5836dc786ae54c7fd5ed67aa1b27bc9a7c85abb8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 11:41:56 2023 +0100
+
+    commit
+
+[33mcommit cab7b3429f2bb93a7e9da359fb4c7227ffd057ff[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 11:40:14 2023 +0100
+
+    principios
+
+[33mcommit 0cca8d84bf5c3c38b8ec1a471d91883a73f8e5d1[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 11:25:54 2023 +0100
+
+    solid
+
+[33mcommit ca201aa0c61e8297d3a5bf1f281eae9c4efcdd3c[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Sat Jan 21 11:02:53 2023 +0100
+
+    mkdocs
+
+[33mcommit b69a60b286fbb95f2ea3a886f73c09448486e7f3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 16:49:47 2023 +0100
+
+    relaciones
+
+[33mcommit df7c5c40eefc70da26fe559f30d1f380a119a590[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 16:46:45 2023 +0100
+
+    log
+
+[33mcommit 5a0180625e1bdc2628f3e2757d004d084cd13e18[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 16:44:50 2023 +0100
+
+    log
+
+[33mcommit 3bc3a3822404948119c374c55b36980690720cfa[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 16:37:33 2023 +0100
+
+    logo
+
+[33mcommit afbbf504f0a9589dfb125df0f341f818fb0506bd[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 16:30:28 2023 +0100
+
+    solid
+
+[33mcommit 72772f167f1e0514af81c3a23cd6409d097f90f8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 16:26:39 2023 +0100
+
+    logo
+
+[33mcommit f2a15e470599edc1ea83a310330c0b396110c241[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 16:22:45 2023 +0100
+
+    iconos
+
+[33mcommit d34951cc5f5b9cb94120c8a782f1fe9e01bd29ce[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 16:06:32 2023 +0100
+
+    modify
+
+[33mcommit be36452a87eb9ee5741687b5b4750ab8eda992ee[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 15:53:19 2023 +0100
+
+    modificacion
+
+[33mcommit 3ea89e46c9e73c8650015ccac9dd209bc07333d4[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 15:49:48 2023 +0100
+
+    logo
+
+[33mcommit 627915fa33c361bfdd3d9d553fb43da54e958383[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 15:46:37 2023 +0100
+
+    modificacion
+
+[33mcommit afa2eddd51ec4c492cce777c34709254687bffe9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 15:44:16 2023 +0100
+
+    foto
+
+[33mcommit 69f506f57a8ceaa9cd2c2f41b3586586db25f2b2[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 15:38:48 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 6e83f45224a5fc2aefd96289c8b5c23f5cb044c7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 15:33:03 2023 +0100
+
+    icono
+
+[33mcommit 11348c01d9c6db57b4e032a48dfbb7146c7fae39[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Fri Jan 20 15:24:39 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit b25a6e9e0a55553efd5c2f58e75757a4ef97bce0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 17:20:46 2023 +0100
+
+    clases y objetos.md
+
+[33mcommit 43dbdaa1da3fc423c3fa8f7e539a7a1debbcda83[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 17:16:25 2023 +0100
+
+    clases y objetos
+
+[33mcommit 0386e7060e28f93724fcc3d2db5912b709cf31f9[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 17:10:32 2023 +0100
+
+    tipos de paradigmas.md
+
+[33mcommit 9d69345764d6ab97f4ed03511ab590345cbe34e8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 17:08:17 2023 +0100
+
+    page4
+
+[33mcommit 13c10e40fc6a5e365a490fcc292b1a89718616af[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 16:02:49 2023 +0100
+
+    index
+
+[33mcommit 2291f283abbba3e07d34eef244766eabacab8ac3[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 14:17:17 2023 +0100
+
+    modify
+
+[33mcommit 519bfb0051a62a7a573f9464f7134d9f98518b06[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 14:15:18 2023 +0100
+
+    index.md
+
+[33mcommit be1b13f8094b76fc05b489890a5ac652886b4a63[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 14:12:59 2023 +0100
+
+    index.md
+
+[33mcommit 42ada696b30cb822841ffab8b15425e2e7636c06[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 14:02:54 2023 +0100
+
+    index.md
+
+[33mcommit 14765a0eb235263e813a8aefdd3a78c2933b29a8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 14:00:20 2023 +0100
+
+    commit index.md
+
+[33mcommit 155d001b6832ed67451bea22f45c1902ff4ded4e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 13:56:35 2023 +0100
+
+    index.md
+
+[33mcommit 62ad3b2727abb24285f804cdac670a66ef338c10[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 13:53:57 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 287e6713a0e89f74841742862e5b620de6c2c73f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 13:45:53 2023 +0100
+
+    index.md
+
+[33mcommit fc89e6ab0607708c1c4ad06b27de7d19223b4c4a[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 13:40:47 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit 07cecb05b4887111aef22391658c9835de89ce53[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 13:37:20 2023 +0100
+
+    create folder documentation
+
+[33mcommit 9c9f4b63da0df0ba2cc45eaf6f9c04d93884ecdf[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 12:28:40 2023 +0100
+
+    readme.md
+
+[33mcommit 1accd15a4c9d8c632d726a014407b49f60c09081[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 12:22:55 2023 +0100
+
+    readme.md
+
+[33mcommit 995f489e12d9d20447e723bd33e3bdc1499406b8[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Wed Jan 18 12:15:30 2023 +0100
+
+    commit
+
+[33mcommit c77f278ac0f580655c10dbf13298acf7ee6542ff[m
+Author: Runtimevic <53791834+runtimevic@users.noreply.github.com>
+Date:   Tue Jan 17 22:38:44 2023 +0100
+
+    Create README.md
+
+[33mcommit ac40204375dd4fdb38d8f2484f1dc78a347e4229[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 22:28:35 2023 +0100
+
+    palette
+
+[33mcommit c0c46d0973550c24263e4552944536a6883ea701[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 22:25:27 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit fada91bbc245e4c1b0b8fb03993f38b37b6b229e[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 22:16:03 2023 +0100
+
+    pagina3
+
+[33mcommit 66b07bec577c5d7fa6683b419b5eaf9a2406a431[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 22:13:27 2023 +0100
+
+    modificado
+
+[33mcommit 1b6b112a33caa0487c6fa8a4de8ab607653a8d1e[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 22:09:13 2023 +0100
+
+    mod
+
+[33mcommit bf6af689acad83a3f1d7a17f484bd5c7dde2644f[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 22:05:46 2023 +0100
+
+    mod
+
+[33mcommit 8e872001f13adb0ad770e43e693325f2ce5d318b[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 22:01:55 2023 +0100
+
+    mod
+
+[33mcommit 245a5f0b7ae348e5584dc06721754a2ca49a2868[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 21:59:21 2023 +0100
+
+    modicacione
+
+[33mcommit fc4fb39ca511a87aaf587a36aaad30a99701f286[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 21:55:28 2023 +0100
+
+    modify
+
+[33mcommit 98a42094bad0a56c2bfc97f29dda15ab21042acb[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 21:39:54 2023 +0100
+
+    modificaciones
+
+[33mcommit a9a1220b88c67395638c160990cb365ccf55e677[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 21:30:26 2023 +0100
+
+    modificado
+
+[33mcommit 47d55f5d607746be2accbbf8be397dcd8bb8db4b[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 21:24:34 2023 +0100
+
+    modificado
+
+[33mcommit 29e6526b88ba33a9d33cfbca3ce3b51026497d25[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 21:22:43 2023 +0100
+
+    modificado
+
+[33mcommit 1727612e95b7eb7324f4718ab64da914a24680e7[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 21:20:59 2023 +0100
+
+    modify
+
+[33mcommit 80b479858defb57f90db5d592bf07a7460740629[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 21:15:38 2023 +0100
+
+    mkdocs.yml
+
+[33mcommit c6a5f7aad759bc18ffaa03ab282e74d06ce13393[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 21:14:57 2023 +0100
+
+    modify
+
+[33mcommit 30d4898b9aa87e06f13e2c5e5f87db3c7cdb7661[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 21:11:50 2023 +0100
+
+    modificacion
+
+[33mcommit f8e495342361608fb241b1e715d9846044f92f89[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 21:07:19 2023 +0100
+
+    modificado mkdocs.yml
+
+[33mcommit 6ea86f526527e8ea25c46e63865809800e5d45b2[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 20:48:33 2023 +0100
+
+    move folder images
+
+[33mcommit 800df7c79e000713096c3aae57cbe20e4a016465[m
+Author: Runtimevic <victorduranm@hotmail.com>
+Date:   Tue Jan 17 20:45:23 2023 +0100
+
+    add OOP
+
+[33mcommit cb33ad830ecc14e9d09202aae8a2b0ff5b3bae8f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 17:09:06 2022 +0100
+
+    desplegar3
+
+[33mcommit f050f8b07eb69fcd40720741dd4006d31735eff0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 17:06:01 2022 +0100
+
+    deplegar2
+
+[33mcommit 1de63fa94537b0e81fd56fee66b31532b778a9ce[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 17:02:00 2022 +0100
+
+    desplegar1
+
+[33mcommit c6e87d8ca8cf8be32f7748eb88be0299bc1f44ac[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 16:56:37 2022 +0100
+
+    deploy1
+
+[33mcommit b16828ba859d89abad4657d80f991c34489a7731[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 16:32:35 2022 +0100
+
+    deploy
+
+[33mcommit 11ab59e4ccfc5cc00579f24f49031eb0b446a74e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 16:07:15 2022 +0100
+
+    mkdocs
+
+[33mcommit 7fc5a2e92f78d3a61dc638631c5d43dcb5e760d1[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 15:59:02 2022 +0100
+
+    fff
+
+[33mcommit daf38a558d67eb48cf4c9025f3f77062e01137ef[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 15:54:17 2022 +0100
+
+    page
+
+[33mcommit 9cf222595fe64f1f4b89ad520691a44ca872479f[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 15:53:05 2022 +0100
+
+    move
+
+[33mcommit e95fefc4789298660b75d516d14c4451fc092e7d[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 15:23:30 2022 +0100
+
+    page4
+
+[33mcommit 9e844b21a5206bb62dfc18dc4871db68902d3b27[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:58:53 2022 +0100
+
+    move
+
+[33mcommit 482ecf5aee4539503d6d7666873496d06b9c4bdc[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:57:57 2022 +0100
+
+    modify
+
+[33mcommit 14d18ed0d519e0504cc4a716af2d530ca9f6d9e6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:55:14 2022 +0100
+
+    modify
+
+[33mcommit 5ed5ba470a78ba70b96b43d8c768b07cbad120f6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:54:28 2022 +0100
+
+    chage folder
+
+[33mcommit 6bd97b04b8858d181cbb4c87f2c1c70b9918b02e[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:50:07 2022 +0100
+
+    add page3
+
+[33mcommit 7454d97558f4e6b197b8a816d6f4e677e948a4b6[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:48:25 2022 +0100
+
+    workflow
+
+[33mcommit 57688b090ec0ae1a57a2759774867f7c77cd07e5[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:44:10 2022 +0100
+
+    page3
+
+[33mcommit 6505d61ca209615c670b621d82528a0b9818a6cb[m
+Merge: 7139af39 d7c4f380
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:35:50 2022 +0100
+
+    Merge branch 'master' of https://github.com/runtimevic/MkDocs_Documentacion
+
+[33mcommit 7139af391dc6078f111dc973885e06f8cb09dbd0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:35:46 2022 +0100
+
+    pages add
+
+[33mcommit d7c4f380310abbb798f002a222ee939f44832ed2[m
+Author: Runtimevic <53791834+runtimevic@users.noreply.github.com>
+Date:   Tue Nov 1 14:34:32 2022 +0100
+
+    Update main.yml
+
+[33mcommit 57f2646e8a56c1858fa9d74a197171b7028610b1[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:29:21 2022 +0100
+
+    modify mkdocs
+
+[33mcommit b5cc45b1f4c3296a625d29b76c6b66bcb6b85fb0[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:29:10 2022 +0100
+
+    add page1
+
+[33mcommit 9d034d4979a3eabba22712b7962db322ab55e775[m
+Author: Runtimevic <53791834+runtimevic@users.noreply.github.com>
+Date:   Tue Nov 1 14:21:42 2022 +0100
+
+    Create main.yml
+
+[33mcommit d136afba3534bee9c50035f9efd7ec534de385c7[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 14:10:37 2022 +0100
+
+    add contact
+
+[33mcommit 20ea32cdf2bfadf7adca16e5b829f7f710aa14e2[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 13:51:08 2022 +0100
+
+    add .gitignore
+
+[33mcommit 1e07835d3606dd0b78ed156b0d38d0692448c887[m
+Author: runtimevic <victorduranm@hotmail.com>
+Date:   Tue Nov 1 13:18:18 2022 +0100
+
+    add docu
+
+[33mcommit 62cfa1f135d9fa2fb5e06709bc693f85b8aad3e0[m
+Author: Runtimevic <53791834+runtimevic@users.noreply.github.com>
+Date:   Tue Nov 1 12:39:23 2022 +0100
+
+    Initial commit
